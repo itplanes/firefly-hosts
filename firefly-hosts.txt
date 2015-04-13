@@ -9,11 +9,11 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Fri, 13 Feb 2015 18:25:35 +0800                  |
+## |         Update : Mon, 13 Apr 2015 16:47:59 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
-## 2015-03-02 removed Ipv4 entries <yinghuocho@gmail.com>
+## 2015-04-13 removed Ipv4 entries <yinghuocho@gmail.com>
 
 ::1 localhost
 
@@ -21,202 +21,229 @@
 2001:4860:4860::8888 google-public-dns-a.google.com
 2001:4860:4860::8844 google-public-dns-b.google.com
 
-2607:f8b0:4007:804::1001 google.com
-2607:f8b0:4007:804::1012 www.google.com
-2607:f8b0:4007:804::1002 admin.google.com
-2607:f8b0:4007:807::200d accounts.google.com #accounts.l.google.com
-2607:f8b0:4007:804::1007 bpui0.google.com #www3.l.google.com
-2607:f8b0:4007:804::1002 clients1.google.com #clients.l.google.com
-2607:f8b0:4007:804::1002 clients2.google.com #clients.l.google.com
-2607:f8b0:4007:804::1002 clients3.google.com #clients.l.google.com
-2607:f8b0:4007:804::1002 clients4.google.com #clients.l.google.com
-2607:f8b0:4007:804::1002 clients5.google.com #clients.l.google.com
-2607:f8b0:4007:804::1002 clients6.google.com #clients.l.google.com
-2607:f8b0:4007:804::1007 encrypted.google.com #www3.l.google.com
-2607:f8b0:4007:804::1000 encrypted-tbn0.google.com #encrypted-tbn.l.google.com
-2607:f8b0:4007:804::1000 encrypted-tbn1.google.com #encrypted-tbn.l.google.com
-2607:f8b0:4007:804::1000 encrypted-tbn2.google.com #encrypted-tbn.l.google.com
-2607:f8b0:4007:804::1000 encrypted-tbn3.google.com #encrypted-tbn.l.google.com
-2607:f8b0:4007:804::1007 goto.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 gxc.google.com #www3.l.google.com
-2001:4860:400b:c01::66 history.google.com #history.l.google.com
-2607:f8b0:4007:804::1007 investor.google.com #www3.l.google.com
-2607:f8b0:4007:804::1005 ipv6.google.com #ipv6.l.google.com
-2607:f8b0:4007:804::1007 jmt0.google.com #www3.l.google.com
-2607:f8b0:4007:804::1002 linkhelp.clients.google.com #clients.l.google.com
-2607:f8b0:4007:804::1002 upload.clients.google.com #clients.l.google.com
-2607:f8b0:4007:807::200b m.google.com #mobile.l.google.com
-2607:f8b0:4007:807::200b mobile.google.com #mobile.l.google.com
-2607:f8b0:4007:804::1007 pki.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 services.google.com #www3.l.google.com
-2607:f8b0:4007:804::1006 suggestqueries.google.com #suggestqueries.l.google.com
-2001:4860:400b:c01::c0 supl.google.com
-2607:f8b0:4007:804::1007 support.google.com #www3.l.google.com
-2001:4860:400b:c01::74 upload.google.com #large-uploads.l.google.com
-2607:f8b0:4007:804::1004 client-channel.google.com
-2001:4860:400b:c01::bd *.client-channel.google.com
-2001:4860:400b:c01::bd 0.client-channel.google.com
-2001:4860:400b:c01::bd 1.client-channel.google.com
-2001:4860:400b:c01::bd 2.client-channel.google.com
-2607:f8b0:4007:809::2008 googletagmanager.com
-2607:f8b0:4007:809::2008 www.googletagmanager.com
+2607:f8b0:4007:804::1008 google.com
+2607:f8b0:4007:804::1014 www.google.com
+2607:f8b0:4007:804::1009 admin.google.com
+2607:f8b0:4007:808::200d accounts.google.com #accounts.l.google.com
+2607:f8b0:4007:804::1009 bpui0.google.com #www3.l.google.com
+2607:f8b0:4007:804::1000 clients1.google.com #clients.l.google.com
+2607:f8b0:4007:804::1000 clients2.google.com #clients.l.google.com
+2607:f8b0:4007:804::1000 clients3.google.com #clients.l.google.com
+2607:f8b0:4007:804::1000 clients4.google.com #clients.l.google.com
+2607:f8b0:4007:804::1000 clients5.google.com #clients.l.google.com
+2607:f8b0:4007:804::1000 clients6.google.com #clients.l.google.com
+2607:f8b0:4007:804::1009 encrypted.google.com #www3.l.google.com
+2607:f8b0:4007:804::1002 encrypted-tbn0.google.com #encrypted-tbn.l.google.com
+2607:f8b0:4007:804::1002 encrypted-tbn1.google.com #encrypted-tbn.l.google.com
+2607:f8b0:4007:804::1002 encrypted-tbn2.google.com #encrypted-tbn.l.google.com
+2607:f8b0:4007:804::1002 encrypted-tbn3.google.com #encrypted-tbn.l.google.com
+2607:f8b0:4007:804::1009 goto.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 gxc.google.com #www3.l.google.com
+2607:f8b0:400e:c04::8a history.google.com #history.l.google.com
+2607:f8b0:4007:804::1009 investor.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 ipv6.google.com #ipv6.l.google.com
+2607:f8b0:4007:804::1009 jmt0.google.com #www3.l.google.com
+2607:f8b0:4007:804::1000 linkhelp.clients.google.com #clients.l.google.com
+2607:f8b0:4007:804::1000 upload.clients.google.com #clients.l.google.com
+2607:f8b0:4007:808::200b m.google.com #mobile.l.google.com
+2607:f8b0:4007:808::200b mobile.google.com #mobile.l.google.com
+2607:f8b0:4007:804::1009 myaccount.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 pki.google.com #www3.l.google.com
+2607:f8b0:4007:804::1002 services.google.com #www3.l.google.com
+2607:f8b0:4007:804::1004 suggestqueries.google.com #suggestqueries.l.google.com
+2607:f8b0:400e:c04::c0 supl.google.com
+2607:f8b0:4007:804::1009 support.google.com #www3.l.google.com
+2607:f8b0:400e:c02::74 upload.google.com #large-uploads.l.google.com
+2607:f8b0:4007:804::1002 client-channel.google.com
+2607:f8b0:400e:c04::bd 0.client-channel.google.com
+2607:f8b0:400e:c04::bd 1.client-channel.google.com
+2607:f8b0:400e:c04::bd 2.client-channel.google.com
+2607:f8b0:400e:c04::bd 3.client-channel.google.com
+2607:f8b0:400e:c04::bd 4.client-channel.google.com
+2607:f8b0:400e:c04::bd 5.client-channel.google.com
+2607:f8b0:400e:c04::bd 6.client-channel.google.com
+2607:f8b0:400e:c04::bd 7.client-channel.google.com
+2607:f8b0:400e:c04::bd 8.client-channel.google.com
+2607:f8b0:400e:c04::bd 9.client-channel.google.com
+2607:f8b0:400e:c04::bd 10.client-channel.google.com
+2607:f8b0:400e:c04::bd 11.client-channel.google.com
+2607:f8b0:400e:c04::bd 12.client-channel.google.com
+2607:f8b0:400e:c04::bd 13.client-channel.google.com
+2607:f8b0:400e:c04::bd 14.client-channel.google.com
+2607:f8b0:400e:c04::bd 15.client-channel.google.com
+2607:f8b0:400e:c04::bd 16.client-channel.google.com
+2607:f8b0:400e:c04::bd 17.client-channel.google.com
+2607:f8b0:400e:c04::bd 18.client-channel.google.com
+2607:f8b0:400e:c04::bd 19.client-channel.google.com
+2607:f8b0:400e:c04::bd 20.client-channel.google.com
+2607:f8b0:400e:c04::bd 21.client-channel.google.com
+2607:f8b0:400e:c04::bd 22.client-channel.google.com
+2607:f8b0:400e:c04::bd 23.client-channel.google.com
+2607:f8b0:400e:c04::bd 24.client-channel.google.com
+2607:f8b0:400e:c04::bd 25.client-channel.google.com
+2607:f8b0:400e:c04::bd 26.client-channel.google.com
+2607:f8b0:400e:c04::bd 27.client-channel.google.com
+2607:f8b0:400e:c04::bd 28.client-channel.google.com
+2607:f8b0:400e:c04::bd 29.client-channel.google.com
+2607:f8b0:4007:804::101e googletagmanager.com
+2607:f8b0:4007:804::101e www.googletagmanager.com
 
 ## 谷歌香港
-2607:f8b0:4007:804::1017 google.com.hk
-2607:f8b0:4007:804::1017 www.google.com.hk
-2607:f8b0:4007:807::2003 accounts.google.com.hk #accounts-cctld.l.google.com
-2607:f8b0:4007:804::1018 clients1.google.com.hk #clients-cctld.l.google.com
+2607:f8b0:4007:804::100f google.com.hk
+2607:f8b0:4007:804::100f www.google.com.hk
+2607:f8b0:4007:808::2003 accounts.google.com.hk #accounts-cctld.l.google.com
+2607:f8b0:4007:804::101f clients1.google.com.hk #clients-cctld.l.google.com
 #2404:6800:4008:c00::63 desktop.google.com.hk #desktop.l.google.com
-2607:f8b0:4007:807::200b m.google.com.hk #mobile.l.google.com
-2607:f8b0:4007:804::1007 gxc.google.com.hk #www3.l.google.com
-2607:f8b0:4007:804::100f id.google.com.hk #id.l.google.com
-2607:f8b0:4007:804::1005 ipv6.google.com.hk #ipv6.l.google.com
-2607:f8b0:4007:804::1012 mobile.google.com.hk #www.google.com
-2607:f8b0:4007:804::100e picasaweb.google.com.hk #picasaweb.l.google.com
-2607:f8b0:4007:804::1012 www.googlechinawebmaster.com
+2607:f8b0:4007:808::200b m.google.com.hk #mobile.l.google.com
+2607:f8b0:4007:804::1009 gxc.google.com.hk #www3.l.google.com
+2607:f8b0:400e:c02::5e id.google.com.hk #id.l.google.com
+2607:f8b0:4007:804::1009 ipv6.google.com.hk #ipv6.l.google.com
+2607:f8b0:4007:804::1014 mobile.google.com.hk #www.google.com
+2607:f8b0:4007:804::1009 picasaweb.google.com.hk #picasaweb.l.google.com
+2607:f8b0:4007:804::1013 www.googlechinawebmaster.com
 
 ## 谷歌中国
-2001:4860:400b:c01::a0 g.cn
-2001:4860:400b:c01::a0 google.cn
-2001:4860:400b:c01::a0 www.google.cn
-2607:f8b0:4007:804::1005 ipv6.google.cn #ipv6.l.google.com
-2001:4860:400b:c01::a0 m.google.cn #www.google.cn
-2001:4860:400b:c01::a0 news.google.cn #www.google.cn
-2001:4860:400b:c01::a0 video.google.cn #www.google.cn
-2607:f8b0:4007:804::100a music.googleusercontent.cn #music-china.l.google.com
-2001:4860:400b:c01::a0 www.265.com #265.com
-2001:4860:400b:c01::a0 265.com
+2607:f8b0:400e:c04::a0 g.cn
+2607:f8b0:400e:c04::a0 google.cn
+2607:f8b0:400e:c04::a0 www.google.cn
+2607:f8b0:4007:804::1009 ipv6.google.cn #ipv6.l.google.com
+2607:f8b0:400e:c04::a0 m.google.cn #www.google.cn
+2607:f8b0:400e:c04::a0 news.google.cn #www.google.cn
+2607:f8b0:400e:c04::a0 video.google.cn #www.google.cn
+2607:f8b0:4007:804::100b music.googleusercontent.cn #music-china.l.google.com
+2607:f8b0:400e:c04::a0 www.265.com #265.com
+2607:f8b0:400e:c04::a0 265.com
 
 ## Google 台湾
-2607:f8b0:4007:804::100f www.google.com.tw
-2607:f8b0:4007:804::1018 clients1.google.com.tw #clients-cctld.l.google.com
-2607:f8b0:4007:804::100e picasaweb.google.com.tw #picasaweb.l.google.com
+2607:f8b0:4007:804::101f www.google.com.tw
+2607:f8b0:4007:804::101f clients1.google.com.tw #clients-cctld.l.google.com
+2607:f8b0:4007:804::1009 picasaweb.google.com.tw #picasaweb.l.google.com
 
 ## Google 日本
-2607:f8b0:4007:804::101f www.google.co.jp
-2607:f8b0:4007:804::1005 ipv6.google.co.jp #ipv6.l.google.com
+2607:f8b0:4007:804::1017 www.google.co.jp
+2607:f8b0:4007:804::1009 ipv6.google.co.jp #ipv6.l.google.com
 
 ## 其他
-2607:f8b0:4007:804::101f www.google.ae
-2607:f8b0:4007:804::1018 www.google.com.ar
-2607:f8b0:4007:804::100f www.google.at
-2607:f8b0:4007:804::101f www.google.com.au
+2607:f8b0:4007:804::1017 www.google.ae
+2607:f8b0:4007:804::101f www.google.com.ar
+2607:f8b0:4007:804::1017 www.google.at
+2607:f8b0:4007:804::100f www.google.com.au
 2607:f8b0:4007:804::1018 www.google.be
-2607:f8b0:4007:804::1018 www.google.com.br
-2607:f8b0:4007:804::100f www.google.ca
+2607:f8b0:4007:804::100f www.google.com.br
+2607:f8b0:4007:804::1018 www.google.ca
 2607:f8b0:4007:804::100f www.google.ch
 2607:f8b0:4007:804::1017 www.google.fi
-2607:f8b0:4007:804::101f www.google.fr
-2607:f8b0:4007:804::1017 www.google.de
-2607:f8b0:4007:804::1017 www.google.com.gr
+2607:f8b0:4007:804::100f www.google.fr
+2607:f8b0:4007:804::1018 www.google.de
+2607:f8b0:4007:804::101f www.google.com.gr
 2607:f8b0:4007:804::1018 www.google.co.il
-2607:f8b0:4007:804::1017 www.google.co.in
-2607:f8b0:4007:804::101f www.google.it
-2607:f8b0:4007:804::101f www.google.co.jp
-2607:f8b0:4007:804::101f www.google.co.kr
+2607:f8b0:4007:804::1018 www.google.co.in
+2607:f8b0:4007:804::1017 www.google.it
+2607:f8b0:4007:804::1017 www.google.co.jp
+2607:f8b0:4007:804::100f www.google.co.kr
 2607:f8b0:4007:804::100f www.google.lt
-2607:f8b0:4007:804::100f www.google.lv
-2607:f8b0:4007:804::100f www.google.com.ly
+2607:f8b0:4007:804::1018 www.google.lv
+2607:f8b0:4007:804::101f www.google.com.ly
 2607:f8b0:4007:804::1017 www.google.com.my
-2607:f8b0:4007:804::1017 www.google.nl
-2607:f8b0:4007:804::1017 www.google.co.nz
-2607:f8b0:4007:804::101f www.google.com.pe
-2607:f8b0:4007:804::1018 www.google.com.ph
-2607:f8b0:4007:804::100f www.google.com.pk
-2607:f8b0:4007:804::101f www.google.pl
-2607:f8b0:4007:804::1018 www.google.pt
+2607:f8b0:4007:804::100f www.google.nl
+2607:f8b0:4007:804::1018 www.google.co.nz
+2607:f8b0:4007:804::100f www.google.com.pe
+2607:f8b0:4007:804::1017 www.google.com.ph
+2607:f8b0:4007:804::101f www.google.com.pk
+2607:f8b0:4007:804::1017 www.google.pl
+2607:f8b0:4007:804::1017 www.google.pt
 2607:f8b0:4007:804::1017 www.google.ro
 2607:f8b0:4007:804::1018 www.google.com.ru
 2607:f8b0:4007:804::1018 www.google.com.sg
-2607:f8b0:4007:804::1017 www.google.com.tr
-2607:f8b0:4007:804::1018 www.google.com.ua
+2607:f8b0:4007:804::101f www.google.com.tr
+2607:f8b0:4007:804::100f www.google.com.ua
 2607:f8b0:4007:804::1017 www.google.co.uk
-2607:f8b0:4007:804::1018 www.google.co.ve
+2607:f8b0:4007:804::100f www.google.co.ve
 2607:f8b0:4007:804::100f www.google.com.vn
-2607:f8b0:4007:804::1018 www.google.co.za
+2607:f8b0:4007:804::101f www.google.co.za
 
 ## Google Apps 企业应用套件
-2607:f8b0:4007:804::1007 apps.google.com #www3.l.google.com
-2001:4860:400b:c01::79 ghs.google.com #ghs.l.google.com
-2001:4860:400b:c01::79 ghs46.google.com #ghs46.l.google.com
+2607:f8b0:4007:804::1009 apps.google.com #www3.l.google.com
+2607:f8b0:400e:c04::79 ghs.google.com #ghs.l.google.com
+2607:f8b0:400e:c04::79 ghs46.google.com #ghs46.l.google.com
 
 ## Mashups/App Engine GAE
-2607:f8b0:4007:804::1013 googlemashups.com
-2607:f8b0:4007:804::1012 www.googlemashups.com #www2.l.google.com
-2607:f8b0:4007:804::1012 *.googlemashups.com #www2.l.google.com
-2607:f8b0:4007:804::1007 appengine.google.com #www3.l.google.com
-2001:4860:400b:c01::8d appspot.com
-2001:4860:400b:c01::8d *.appspot.com #appspot.l.google.com
-2001:4860:400b:c01::8d www.appspot.com
-2001:4860:400b:c01::8d betaspike.appspot.com
-2001:4860:400b:c01::8d chrometophone.appspot.com
-2001:4860:400b:c01::8d codereview.appspot.com
-2001:4860:400b:c01::8d evolutionofweb.appspot.com
-2001:4860:400b:c01::8d feedly-beta.appspot.com
-2001:4860:400b:c01::8d googcloudlabs.appspot.com
-2001:4860:400b:c01::8d googlesharedspaces.appspot.com
-2001:4860:400b:c01::8d gv-gadget.appspot.com
-2001:4860:400b:c01::8d haiticrisis.appspot.com
-2001:4860:400b:c01::8d i18napis.appspot.com
-2001:4860:400b:c01::8d moderator.appspot.com
-2001:4860:400b:c01::8d newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
-2001:4860:400b:c01::8d productideas.appspot.com
-2001:4860:400b:c01::8d project-slingshot-gp.appspot.com
-2001:4860:400b:c01::8d r3269-dot-latest-dot-project-slingshot-gp.appspot.com
-2001:4860:400b:c01::8d storegadgetwizard.appspot.com
-2001:4860:400b:c01::8d welcome-cros.appspot.com
-2001:4860:400b:c01::8d yt-debates.appspot.com
+2607:f8b0:4007:804::1012 googlemashups.com
+2607:f8b0:4007:804::1010 www.googlemashups.com #www2.l.google.com
+2607:f8b0:4007:804::1010 *.googlemashups.com #www2.l.google.com
+2607:f8b0:4007:804::1009 appengine.google.com #www3.l.google.com
+2607:f8b0:400e:c04::8d appspot.com
+2607:f8b0:400e:c04::8d *.appspot.com #appspot.l.google.com
+2607:f8b0:400e:c04::8d www.appspot.com
+2607:f8b0:400e:c04::8d betaspike.appspot.com
+2607:f8b0:400e:c04::8d chrometophone.appspot.com
+2607:f8b0:400e:c04::8d codereview.appspot.com
+2607:f8b0:400e:c04::8d evolutionofweb.appspot.com
+2607:f8b0:400e:c04::8d feedly-beta.appspot.com
+2607:f8b0:400e:c04::8d googcloudlabs.appspot.com
+2607:f8b0:400e:c04::8d googlesharedspaces.appspot.com
+2607:f8b0:400e:c04::8d gv-gadget.appspot.com
+2607:f8b0:400e:c04::8d haiticrisis.appspot.com
+2607:f8b0:400e:c04::8d i18napis.appspot.com
+2607:f8b0:400e:c04::8d moderator.appspot.com
+2607:f8b0:400e:c04::8d newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
+2607:f8b0:400e:c04::8d productideas.appspot.com
+2607:f8b0:400e:c04::8d project-slingshot-gp.appspot.com
+2607:f8b0:400e:c04::8d r3269-dot-latest-dot-project-slingshot-gp.appspot.com
+2607:f8b0:400e:c04::8d storegadgetwizard.appspot.com
+2607:f8b0:400e:c04::8d welcome-cros.appspot.com
+2607:f8b0:400e:c04::8d yt-debates.appspot.com
 
 ## Answers/Guru/WenDa 问答社区（国际版已停止运营）
-2607:f8b0:4007:804::1007 answers.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 answers.google.com #www3.l.google.com
 #2404:6800:4008:c00::62 guru.google.com
-2607:f8b0:4007:804::1012 guru.google.co.th #www2.l.google.com
-2607:f8b0:4007:804::1007 wenda.google.com.hk #www3.l.google.com
+2607:f8b0:4007:804::1010 guru.google.co.th #www2.l.google.com
+2607:f8b0:4007:804::1009 wenda.google.com.hk #www3.l.google.com
 
 ## Blog 博客搜索
-2607:f8b0:4007:804::1012 blogsearch.google.com #www2.l.google.com
-2607:f8b0:4007:804::1012 blogsearch.google.com.hk #www2.l.google.com
-2607:f8b0:4007:804::1012 blogsearch.google.com.tw #www2.l.google.com
-2001:4860:400b:c01::a0 blogsearch.google.cn #www.google.cn
+2607:f8b0:4007:804::1010 blogsearch.google.com #www2.l.google.com
+2607:f8b0:4007:804::1010 blogsearch.google.com.hk #www2.l.google.com
+2607:f8b0:4007:804::1010 blogsearch.google.com.tw #www2.l.google.com
+2607:f8b0:400e:c04::a0 blogsearch.google.cn #www.google.cn
 
 ## Blogger 博客服务
-2607:f8b0:4007:807::2009 www.blogger.com #blogger.l.google.com
-2607:f8b0:4007:807::2009 blogger.com
-2607:f8b0:4007:807::2009 blogger.google.com #blogger.l.google.com
-2607:f8b0:4007:807::2009 www2.blogger.com #blogger.l.google.com
-2607:f8b0:4007:807::2009 www.blogblog.com #blogger.l.google.com
-2607:f8b0:4007:807::2009 www1.blogblog.com #blogger.l.google.com
-2607:f8b0:4007:807::2009 www2.blogblog.com #blogger.l.google.com
-2607:f8b0:4007:807::2009 beta.blogger.com #blogger.l.google.com
-2607:f8b0:4007:807::2009 buttons.blogger.com #blogger.l.google.com
-2607:f8b0:4007:807::2009 buzz.blogger.com #blogger.l.google.com
-2607:f8b0:4007:807::2009 draft.blogger.com #blogger.l.google.com
-2607:f8b0:4007:807::2009 status.blogger.com #blogger.l.google.com
-2607:f8b0:4007:804::1012 help.blogger.com #www2.l.google.com
-2607:f8b0:4007:804::1011 photos1.blogger.com #photos1.l.google.com
-2607:f8b0:4007:804::100e bp0.blogger.com #bloggerphotos.l.google.com
-2607:f8b0:4007:804::100e bp1.blogger.com #bloggerphotos.l.google.com
-2607:f8b0:4007:804::100e bp2.blogger.com #bloggerphotos.l.google.com
-2607:f8b0:4007:804::100e bp3.blogger.com #bloggerphotos.l.google.com
+2607:f8b0:4007:808::2009 www.blogger.com #blogger.l.google.com
+2607:f8b0:4007:808::2009 blogger.com
+2607:f8b0:4007:808::2009 blogger.google.com #blogger.l.google.com
+2607:f8b0:4007:808::2009 www2.blogger.com #blogger.l.google.com
+2607:f8b0:4007:808::2009 www.blogblog.com #blogger.l.google.com
+2607:f8b0:4007:808::2009 www1.blogblog.com #blogger.l.google.com
+2607:f8b0:4007:808::2009 www2.blogblog.com #blogger.l.google.com
+2607:f8b0:4007:808::2009 beta.blogger.com #blogger.l.google.com
+2607:f8b0:4007:808::2009 buttons.blogger.com #blogger.l.google.com
+2607:f8b0:4007:808::2009 buzz.blogger.com #blogger.l.google.com
+2607:f8b0:4007:808::2009 draft.blogger.com #blogger.l.google.com
+2607:f8b0:4007:808::2009 status.blogger.com #blogger.l.google.com
+2607:f8b0:4007:804::1014 help.blogger.com #www2.l.google.com
+2607:f8b0:4007:804::1010 photos1.blogger.com #photos1.l.google.com
+2607:f8b0:4007:804::1009 bp0.blogger.com #bloggerphotos.l.google.com
+2607:f8b0:4007:804::1009 bp1.blogger.com #bloggerphotos.l.google.com
+2607:f8b0:4007:804::1009 bp2.blogger.com #bloggerphotos.l.google.com
+2607:f8b0:4007:804::1009 bp3.blogger.com #bloggerphotos.l.google.com
 2607:f8b0:4007:804::100b img.blogblog.com #blogspot.l.googleusercontent.com
-2607:f8b0:4007:807::2009 img1.blogblog.com #blogger.l.google.com
-2607:f8b0:4007:807::2009 img2.blogblog.com #blogger.l.google.com
-2001:4860:400b:c01::79 www.textcube.com #ghs.l.google.com
+2607:f8b0:4007:808::2009 img1.blogblog.com #blogger.l.google.com
+2607:f8b0:4007:808::2009 img2.blogblog.com #blogger.l.google.com
+2607:f8b0:400e:c04::79 www.textcube.com #ghs.l.google.com
 
 ## Blogspot 博客服务
-2607:f8b0:4007:807::2009 www.blogspot.com #blogger.l.google.com
-2607:f8b0:4007:807::2009 blogspot.com
+2607:f8b0:4007:808::2009 www.blogspot.com #blogger.l.google.com
+2607:f8b0:4007:808::2009 blogspot.com
 2607:f8b0:4007:804::100b blogsofnote.blogspot.com #blogspot.l.googleusercontent.com
 2607:f8b0:4007:804::100b knownissues.blogspot.com #blogspot.l.googleusercontent.com
-2607:f8b0:4007:804::100b 1.bp.blogspot.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b 2.bp.blogspot.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b 3.bp.blogspot.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b 4.bp.blogspot.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a 1.bp.blogspot.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a 2.bp.blogspot.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a 3.bp.blogspot.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a 4.bp.blogspot.com #photos-ugc.l.googleusercontent.com
 2607:f8b0:4007:804::100b bloggertemplatespreview.blogspot.com #blogspot.l.googleusercontent.com
 
 ## Google 官方博客群
 2607:f8b0:4007:804::100b *.blogspot.com #blogspot.l.googleusercontent.com
-2607:f8b0:4007:804::100b adwordsapi.blogspot.com
+2607:f8b0:4007:804::100c adwordsapi.blogspot.com
 2607:f8b0:4007:804::100b adsense-zhs.blogspot.com
 2607:f8b0:4007:804::100b android-developers.blogspot.com
 2607:f8b0:4007:804::100b apacdeveloper.blogspot.com
@@ -224,7 +251,7 @@
 2607:f8b0:4007:804::100b chrome.blogspot.com
 2607:f8b0:4007:804::100b doubleclickpublishersapi.blogspot.com
 2607:f8b0:4007:804::100b emeadev.blogspot.com
-2607:f8b0:4007:804::100b gearsblog.blogspot.com
+2607:f8b0:4007:804::100c gearsblog.blogspot.com
 2607:f8b0:4007:804::100b google-code-featured.blogspot.com
 2607:f8b0:4007:804::100b google-entertainment-it.blogspot.com
 2607:f8b0:4007:804::100b google-opensource.blogspot.com
@@ -232,14 +259,15 @@
 2607:f8b0:4007:804::100b googleappengine.blogspot.com
 2607:f8b0:4007:804::100b googleappsdeveloper.blogspot.com
 2607:f8b0:4007:804::100b googleblog.blogspot.com
-2607:f8b0:4007:804::100b googlecheckout.blogspot.com
+2607:f8b0:4007:804::100c googlecheckout.blogspot.com
 2607:f8b0:4007:804::100b googlecheckoutapi.blogspot.com
 2607:f8b0:4007:804::100b googlechinablog.blogspot.com
 2607:f8b0:4007:804::100b googlechromereleases.blogspot.com
 2607:f8b0:4007:804::100b googlecode.blogspot.com
 2607:f8b0:4007:804::100b googlecustomsearch.blogspot.com
+2607:f8b0:4007:804::100b googledevelopers.blogspot.com
 2607:f8b0:4007:804::100b googleenterprise.blogspot.com
-2607:f8b0:4007:804::100b googlegeodevelopers.blogspot.com
+2607:f8b0:4007:804::100c googlegeodevelopers.blogspot.com
 2607:f8b0:4007:804::100b googlemashupeditor.blogspot.com
 2607:f8b0:4007:804::100b googlemobile.blogspot.com
 2607:f8b0:4007:804::100b googleplusplatform.blogspot.com
@@ -255,50 +283,51 @@
 2607:f8b0:4007:804::100b youtube-global.blogspot.com
 
 ## Books 图书
-2001:4860:400b:c01::a0 books.google.cn #www.google.cn
-2607:f8b0:4007:804::1007 books.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 books.google.com.hk #www3.l.google.com
-2607:f8b0:4007:804::1007 bks0.books.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 bks1.books.google.com
-2607:f8b0:4007:804::1007 bks2.books.google.com
-2607:f8b0:4007:804::1007 bks3.books.google.com
-2607:f8b0:4007:804::1007 bks4.books.google.com
-2607:f8b0:4007:804::1007 bks5.books.google.com
-2607:f8b0:4007:804::1007 bks6.books.google.com
-2607:f8b0:4007:804::1007 bks7.books.google.com
-2607:f8b0:4007:804::1007 bks8.books.google.com
-2607:f8b0:4007:804::1007 bks9.books.google.com
-2607:f8b0:4007:804::1007 bks10.books.google.com
-2607:f8b0:4007:804::1007 bks0.books.google.com.hk
-2607:f8b0:4007:804::1007 bks1.books.google.com.hk
-2607:f8b0:4007:804::1007 bks2.books.google.com.hk
-2607:f8b0:4007:804::1007 bks3.books.google.com.hk
-2607:f8b0:4007:804::1007 bks4.books.google.com.hk
-2607:f8b0:4007:804::1007 bks5.books.google.com.hk
-2607:f8b0:4007:804::1007 bks6.books.google.com.hk
-2607:f8b0:4007:804::1007 bks7.books.google.com.hk
-2607:f8b0:4007:804::1007 bks8.books.google.com.hk
-2607:f8b0:4007:804::1007 bks9.books.google.com.hk
-2607:f8b0:4007:804::1007 bks10.books.google.com.hk
-2607:f8b0:4007:804::1007 buzz.google.com #www3.l.google.com
+2607:f8b0:400e:c04::a0 books.google.cn #www.google.cn
+2607:f8b0:4007:804::1009 books.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 books.google.com.hk #www3.l.google.com
+2607:f8b0:4007:804::1009 bks0.books.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 bks1.books.google.com
+2607:f8b0:4007:804::1009 bks2.books.google.com
+2607:f8b0:4007:804::1009 bks3.books.google.com
+2607:f8b0:4007:804::1009 bks4.books.google.com
+2607:f8b0:4007:804::1009 bks5.books.google.com
+2607:f8b0:4007:804::1009 bks6.books.google.com
+2607:f8b0:4007:804::1009 bks7.books.google.com
+2607:f8b0:4007:804::1009 bks8.books.google.com
+2607:f8b0:4007:804::1009 bks9.books.google.com
+2607:f8b0:4007:804::1009 bks10.books.google.com
+2607:f8b0:4007:804::1009 bks0.books.google.com.hk
+2607:f8b0:4007:804::1009 bks1.books.google.com.hk
+2607:f8b0:4007:804::1009 bks2.books.google.com.hk
+2607:f8b0:4007:804::1009 bks3.books.google.com.hk
+2607:f8b0:4007:804::1009 bks4.books.google.com.hk
+2607:f8b0:4007:804::1009 bks5.books.google.com.hk
+2607:f8b0:4007:804::1009 bks6.books.google.com.hk
+2607:f8b0:4007:804::1009 bks7.books.google.com.hk
+2607:f8b0:4007:804::1009 bks8.books.google.com.hk
+2607:f8b0:4007:804::1009 bks9.books.google.com.hk
+2607:f8b0:4007:804::1009 bks10.books.google.com.hk
+2607:f8b0:4007:804::1009 buzz.google.com #www3.l.google.com
 
 ## Calendar 日历
-2607:f8b0:4007:804::1007 calendar.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 calendar.google.com #www3.l.google.com
 
 ## Checkout 买家
 #2404:6800:4008:c00::73 checkout.google.com #checkout.l.google.com
-2607:f8b0:4007:804::1002 wallet.google.com
+2607:f8b0:4007:804::1005 wallet.google.com
 
 ## Chrome 谷歌浏览器
 2607:f8b0:4005:800::1000 www.chrome.com
-2607:f8b0:4007:804::1007 chrome.google.com #www3.l.google.com
+2607:f8b0:400e:c04::8d developer.chrome.com #appspot.l.google.com
+2607:f8b0:4007:804::1009 chrome.google.com #www3.l.google.com
 #2404:6800:4008:c00::66 browsersync.google.com #browsersync.l.google.com
-2607:f8b0:4007:804::1013 toolbarqueries.google.com #toolbarqueries.l.google.com
-2607:f8b0:4007:804::1013 toolbarqueries.google.com.hk #toolbarqueries.l.google.com
-2607:f8b0:4007:804::1002 toolbarqueries.clients.google.com #clients.l.google.com
+2607:f8b0:4007:809::2004 toolbarqueries.google.com #toolbarqueries.l.google.com
+2607:f8b0:4007:809::2004 toolbarqueries.google.com.hk #toolbarqueries.l.google.com
+2607:f8b0:4007:804::1000 toolbarqueries.clients.google.com #clients.l.google.com
 
 ## Chromium Chromium 项目
-2607:f8b0:4007:804::1007 chromium.org
+2607:f8b0:4007:804::1004 chromium.org
 #2001:4860:400b:c01::79 www.chromium.org #ghs.l.google.com
 #2001:4860:400b:c01::79 dev.chromium.org #ghs.l.google.com
 #2001:4860:400b:c01::79 blog.chromium.org #ghs.l.google.com
@@ -306,92 +335,99 @@
 #2404:6800:4008:c00::79 codereview.chromium.org #ghs.l.google.com
 
 ## Chromium OS Chromium 操作系统
-2001:4860:400b:c01::79 goto.ext.google.com #ghs.l.google.com
+2607:f8b0:400e:c04::79 goto.ext.google.com #ghs.l.google.com
 
 ## Code 代码
-2607:f8b0:4007:804::1003 code.google.com #code.l.google.com
-2001:4860:400b:c01::52 *.googlecode.com #googlecode.l.googleusercontent.com
-2001:4860:400b:c01::52 chromium.googlecode.com #googlecode.l.googleusercontent.com
-2001:4860:400b:c01::52 closure-library.googlecode.com #googlecode.l.googleusercontent.com
-2001:4860:400b:c01::52 earth-api-samples.googlecode.com #googlecode.l.googleusercontent.com
-2001:4860:400b:c01::52 gmaps-samples-flash.googlecode.com #googlecode.l.googleusercontent.com
-2001:4860:400b:c01::52 googleappengine.googlecode.com #googlecode.l.googleusercontent.com
-2001:4860:400b:c01::52 google-code-feed-gadget.googlecode.com #googlecode.l.googleusercontent.com
-2001:4860:400b:c01::52 www.googlesource.com #googlecode.l.googleusercontent.com
-2001:4860:400b:c01::52 android.googlesource.com #googlecode.l.googleusercontent.com
+2607:f8b0:4007:804::1004 code.google.com #code.l.google.com
+2607:f8b0:400e:c04::52 *.googlecode.com #googlecode.l.googleusercontent.com
+2607:f8b0:400e:c04::52 chromium.googlecode.com #googlecode.l.googleusercontent.com
+2607:f8b0:400e:c04::52 closure-library.googlecode.com #googlecode.l.googleusercontent.com
+2607:f8b0:400e:c04::52 earth-api-samples.googlecode.com #googlecode.l.googleusercontent.com
+2607:f8b0:400e:c04::52 gmaps-samples-flash.googlecode.com #googlecode.l.googleusercontent.com
+2607:f8b0:400e:c04::52 googleappengine.googlecode.com #googlecode.l.googleusercontent.com
+2607:f8b0:400e:c04::52 google-code-feed-gadget.googlecode.com #googlecode.l.googleusercontent.com
+2607:f8b0:400e:c04::52 www.googlesource.com #googlecode.l.googleusercontent.com
+2607:f8b0:400e:c04::52 android.googlesource.com #googlecode.l.googleusercontent.com
 
 ## Desktop 桌面
 #2404:6800:4008:c00::68 desktop.google.com #desktop.l.google.com
 
+## Developers 开发者
+2607:f8b0:4007:804::1009 cloud.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 developers.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 cloudssh.developers.google.com #www3.l.google.com
+2607:f8b0:4007:804::1007 console.developers.google.com
+2607:f8b0:400e:c04::52 source.developers.google.com
+
 ## Directory 网页目录
-2607:f8b0:4007:804::1007 directory.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 dir.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 directory.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 dir.google.com #www3.l.google.com
 
 ## Docs 文档
-2607:f8b0:4007:804::100c googledrive.com
-2607:f8b0:4007:804::1002 docs.google.com
-2607:f8b0:4007:804::1000 drive.google.com
-2607:f8b0:4007:804::1007 docs0.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 docs1.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 docs2.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 docs3.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 docs4.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 docs5.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 docs6.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 docs7.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 docs8.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 docs9.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 writely.google.com #www3.l.google.com
-2001:4860:400b:c01::74 upload.docs.google.com #large-uploads.l.google.com
-2001:4860:400b:c01::74 upload.drive.google.com #large-uploads.l.google.com
-2001:4860:400b:c01::bd *.docs.google.com #browserchannel-docs.l.google.com
-2001:4860:400b:c01::bd *.drive.google.com #browserchannel-docs.l.google.com
-2001:4860:400b:c01::bd 0.docs.google.com
-2001:4860:400b:c01::bd 1.docs.google.com
-2001:4860:400b:c01::bd 2.docs.google.com
-2001:4860:400b:c01::bd 3.docs.google.com
-2001:4860:400b:c01::bd 4.docs.google.com
-2001:4860:400b:c01::bd 5.docs.google.com
-2001:4860:400b:c01::bd 6.docs.google.com
-2001:4860:400b:c01::bd 7.docs.google.com
-2001:4860:400b:c01::bd 8.docs.google.com
-2001:4860:400b:c01::bd 9.docs.google.com
-2001:4860:400b:c01::bd 10.docs.google.com
-2001:4860:400b:c01::bd 11.docs.google.com
-2001:4860:400b:c01::bd 12.docs.google.com
-2001:4860:400b:c01::bd 13.docs.google.com
-2001:4860:400b:c01::bd 14.docs.google.com
-2001:4860:400b:c01::bd 15.docs.google.com
-2001:4860:400b:c01::bd 16.docs.google.com
-2001:4860:400b:c01::bd 0.drive.google.com
-2001:4860:400b:c01::bd 1.drive.google.com
-2001:4860:400b:c01::bd 2.drive.google.com
-2001:4860:400b:c01::bd 3.drive.google.com
-2001:4860:400b:c01::bd 4.drive.google.com
-2001:4860:400b:c01::bd 5.drive.google.com
-2001:4860:400b:c01::bd 6.drive.google.com
-2001:4860:400b:c01::bd 7.drive.google.com
-2001:4860:400b:c01::bd 8.drive.google.com
-2001:4860:400b:c01::bd 9.drive.google.com
-2001:4860:400b:c01::bd 10.drive.google.com
-2001:4860:400b:c01::bd 11.drive.google.com
-2001:4860:400b:c01::bd 12.drive.google.com
-2001:4860:400b:c01::bd 13.drive.google.com
-2001:4860:400b:c01::bd 14.drive.google.com
-2001:4860:400b:c01::bd 15.drive.google.com
-2001:4860:400b:c01::bd 16.drive.google.com
-2607:f8b0:4007:804::1005 spreadsheet.google.com #spreadsheets.l.google.com
-2607:f8b0:4007:804::1005 spreadsheets.google.com #spreadsheets.l.google.com
-2607:f8b0:4007:804::1007 spreadsheets0.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 spreadsheets1.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 spreadsheets2.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 spreadsheets3.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 spreadsheets4.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 spreadsheets5.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 spreadsheets6.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 spreadsheets7.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 spreadsheets8.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 spreadsheets9.google.com #www3.l.google.com
+2607:f8b0:4007:804::100b googledrive.com
+2607:f8b0:4007:804::1009 docs.google.com
+2607:f8b0:4007:804::100e drive.google.com
+2607:f8b0:4007:804::1009 docs0.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 docs1.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 docs2.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 docs3.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 docs4.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 docs5.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 docs6.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 docs7.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 docs8.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 docs9.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 writely.google.com #www3.l.google.com
+2607:f8b0:400e:c02::75 upload.docs.google.com #large-uploads.l.google.com
+2607:f8b0:400e:c02::75 upload.drive.google.com #large-uploads.l.google.com
+2607:f8b0:400e:c04::bd *.docs.google.com #browserchannel-docs.l.google.com
+2607:f8b0:400e:c04::bd *.drive.google.com #browserchannel-docs.l.google.com
+2607:f8b0:400e:c04::bd 0.docs.google.com
+2607:f8b0:400e:c04::bd 1.docs.google.com
+2607:f8b0:400e:c04::bd 2.docs.google.com
+2607:f8b0:400e:c04::bd 3.docs.google.com
+2607:f8b0:400e:c04::bd 4.docs.google.com
+2607:f8b0:400e:c04::bd 5.docs.google.com
+2607:f8b0:400e:c04::bd 6.docs.google.com
+2607:f8b0:400e:c04::bd 7.docs.google.com
+2607:f8b0:400e:c04::bd 8.docs.google.com
+2607:f8b0:400e:c04::bd 9.docs.google.com
+2607:f8b0:400e:c04::bd 10.docs.google.com
+2607:f8b0:400e:c04::bd 11.docs.google.com
+2607:f8b0:400e:c04::bd 12.docs.google.com
+2607:f8b0:400e:c04::bd 13.docs.google.com
+2607:f8b0:400e:c04::bd 14.docs.google.com
+2607:f8b0:400e:c04::bd 15.docs.google.com
+2607:f8b0:400e:c04::bd 16.docs.google.com
+2607:f8b0:400e:c04::bd 0.drive.google.com
+2607:f8b0:400e:c04::bd 1.drive.google.com
+2607:f8b0:400e:c04::bd 2.drive.google.com
+2607:f8b0:400e:c04::bd 3.drive.google.com
+2607:f8b0:400e:c04::bd 4.drive.google.com
+2607:f8b0:400e:c04::bd 5.drive.google.com
+2607:f8b0:400e:c04::bd 6.drive.google.com
+2607:f8b0:400e:c04::bd 7.drive.google.com
+2607:f8b0:400e:c04::bd 8.drive.google.com
+2607:f8b0:400e:c04::bd 9.drive.google.com
+2607:f8b0:400e:c04::bd 10.drive.google.com
+2607:f8b0:400e:c04::bd 11.drive.google.com
+2607:f8b0:400e:c04::bd 12.drive.google.com
+2607:f8b0:400e:c04::bd 13.drive.google.com
+2607:f8b0:400e:c04::bd 14.drive.google.com
+2607:f8b0:400e:c04::bd 15.drive.google.com
+2607:f8b0:400e:c04::bd 16.drive.google.com
+2607:f8b0:4007:804::1001 spreadsheet.google.com #spreadsheets.l.google.com
+2607:f8b0:4007:804::1001 spreadsheets.google.com #spreadsheets.l.google.com
+2607:f8b0:4007:804::1009 spreadsheets0.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 spreadsheets1.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 spreadsheets2.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 spreadsheets3.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 spreadsheets4.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 spreadsheets5.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 spreadsheets6.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 spreadsheets7.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 spreadsheets8.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 spreadsheets9.google.com #www3.l.google.com
 
 2001:4860:4001:3::6 r1---sn-nwj7knel.c.docs.google.com
 2001:4860:4001:3::7 r2---sn-nwj7knel.c.docs.google.com
@@ -415,290 +451,287 @@
 2001:4860:4001:3::19 r20---sn-nwj7knel.c.docs.google.com
 
 ## Domains 域名
-2607:f8b0:4007:809::200e domains.google.com
+2607:f8b0:4007:804::1009 domains.google.com
 
 ## Download 下载
-2607:f8b0:4007:804::100e dl.google.com #dl.l.google.com
-2001:4860:400b:c01::5b dl-ssl.google.com #dl-ssl.l.google.com
+2607:f8b0:4007:804::1003 dl.google.com #dl.l.google.com
+2607:f8b0:400e:c04::88 dl-ssl.google.com #dl-ssl.l.google.com
 
 ## Google Earth 地球
-2607:f8b0:4007:804::1007 earth.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 auth.keyhole.com #www3.l.google.com
-2607:f8b0:4007:804::1007 geoauth.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 earth.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 auth.keyhole.com #www3.l.google.com
+2607:f8b0:4007:804::1009 geoauth.google.com #www3.l.google.com
 
 ## Finance 财经
-2607:f8b0:4007:804::1007 finance.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 finance.google.com #www3.l.google.com
 
 ## Fusion RSS 聚合指南
-2607:f8b0:4007:804::1012 fusion.google.com #www2.l.google.com
+2607:f8b0:4007:804::1010 fusion.google.com #www2.l.google.com
 
 ## Gmail 邮箱
-2607:f8b0:4007:804::1016 mail.google.com #googlemail.l.google.com
+2607:f8b0:4007:804::1015 mail.google.com #googlemail.l.google.com
 2607:f8b0:4007:804::101d chatenabled.mail.google.com #b.googlemail.l.google.com
 2607:f8b0:4007:804::101d filetransferenabled.mail.google.com #b.googlemail.l.google.com
 #2404:6800:4008:c00::62 talk.gmail.com #Gmail中Gtalk聊天服务
-2607:f8b0:4007:804::1007 gmail.google.com #www3.l.google.com
-2607:f8b0:4007:804::1016 www.gmail.com #googlemail.l.google.com
+2607:f8b0:4007:804::1009 gmail.google.com #www3.l.google.com
+2607:f8b0:4007:804::1015 www.gmail.com #googlemail.l.google.com
 2607:f8b0:4007:804::1016 gmail.com
-2607:f8b0:4007:804::1016 m.gmail.com #googlemail.l.google.com
-2607:f8b0:4007:804::1016 m.googlemail.com #googlemail.l.google.com
+2607:f8b0:4007:804::1015 m.gmail.com #googlemail.l.google.com
+2607:f8b0:4007:804::1015 m.googlemail.com #googlemail.l.google.com
 2607:f8b0:400e:c02::6d pop.gmail.com #gmail-pop.l.google.com
-2001:4860:400b:c01::10 pop.googlemail.com #googlemail-pop.l.google.com
-2001:4860:400b:c01::6c smtp.gmail.com #gmail-smtp-msa.l.google.com
+2607:f8b0:400e:c04::10 pop.googlemail.com #googlemail-pop.l.google.com
+2607:f8b0:400e:c04::6d smtp.gmail.com #gmail-smtp-msa.l.google.com
 #2404:6800:4008:c00::62 smtp1.google.com
 #2404:6800:4008:c00::62 smtp2.google.com
 #2404:6800:4008:c00::62 smtp3.google.com
 #2404:6800:4008:c00::62 smtp-out.google.com
 #2404:6800:4008:c00::62 smtp-out3.google.com
-2001:4860:400b:c01::10 smtp.googlemail.com #googlemail-smtp.l.google.com
-2607:f8b0:400e:c04::6d imap.gmail.com #gmail-imap.l.google.com
-2001:4860:400b:c01::10 imap.googlemail.com #googlemail-imap.l.google.com
+2607:f8b0:400e:c04::10 smtp.googlemail.com #googlemail-smtp.l.google.com
+2607:f8b0:400e:c04::6c imap.gmail.com #gmail-imap.l.google.com
+2607:f8b0:400e:c04::10 imap.googlemail.com #googlemail-imap.l.google.com
 
 ## Group 论坛
 #2401:3800:c001::68 groups.google.cn
-2001:4860:400b:c01::8a groups.google.com #groups.l.google.com
-2001:4860:400b:c01::8a groups.google.com.hk #groups.l.google.com
-2001:4860:400b:c01::8a groups-beta.google.com #groups.l.google.com
-2001:4860:400b:c01::8a productforums.google.com #groups.l.google.com
-2001:4860:400b:c01::89 *.googlegroups.com #googlegroups.l.googleusercontent.com
-2001:4860:400b:c01::89 blob-s-docs.googlegroups.com #googlegroups.l.googleusercontent.com
+2607:f8b0:400e:c04::66 groups.google.com #groups.l.google.com
+2607:f8b0:400e:c04::66 groups.google.com.hk #groups.l.google.com
+2607:f8b0:400e:c04::66 groups-beta.google.com #groups.l.google.com
+2607:f8b0:400e:c04::66 productforums.google.com #groups.l.google.com
+2607:f8b0:400e:c04::89 *.googlegroups.com #googlegroups.l.googleusercontent.com
+2607:f8b0:400e:c04::89 blob-s-docs.googlegroups.com #googlegroups.l.googleusercontent.com
 
 ## Health 健康
-2607:f8b0:4007:804::1007 health.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 health.google.com #www3.l.google.com
 
 ## Images 图片
-2607:f8b0:4007:804::1002 images.google.com #images.l.google.com
-2607:f8b0:4007:804::1002 images.google.com.hk #images.l.google.com
-2607:f8b0:4007:804::1014 tbn0.google.com #tbn.l.google.com
-2607:f8b0:4007:804::1014 tbn1.google.com #tbn.l.google.com
-2607:f8b0:4007:804::1014 tbn2.google.com #tbn.l.google.com
-2607:f8b0:4007:804::1014 tbn3.google.com #tbn.l.google.com
+2607:f8b0:4007:804::1006 images.google.com #images.l.google.com
+2607:f8b0:4007:804::1006 images.google.com.hk #images.l.google.com
+2607:f8b0:4007:804::1012 tbn0.google.com #tbn.l.google.com
+2607:f8b0:4007:804::1012 tbn1.google.com #tbn.l.google.com
+2607:f8b0:4007:804::1012 tbn2.google.com #tbn.l.google.com
+2607:f8b0:4007:804::1012 tbn3.google.com #tbn.l.google.com
 #2404:6800:4008:c00::62 tbn4.google.com
 #2404:6800:4008:c00::62 tbn5.google.com
 #2404:6800:4008:c00::62 tbn6.google.com
 
 ## Inbox
-2607:f8b0:4007:804::1002 inbox.google.com
+2607:f8b0:4007:804::100e inbox.google.com
 
 ## Input Tools 输入法
 2607:f8b0:4007:804::1005 inputtools.google.com #www4.l.google.com
 
 ## Knol 在线百科全书
-2607:f8b0:4007:804::1007 knol.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 knol.google.com #www3.l.google.com
 
 ## Labs 实验室
-2607:f8b0:4007:804::1007 labs.google.cn #www3.l.google.com
-2607:f8b0:4007:804::1007 labs.google.com #www3.l.google.com
-2001:4860:400b:c01::8d www.googlelabs.com
-2001:4860:400b:c01::8d browsersize.googlelabs.com
-2001:4860:400b:c01::8d bodybrowser.googlelabs.com
-2001:4860:400b:c01::8d citytours.googlelabs.com
-2001:4860:400b:c01::8d correlate.googlelabs.com
-2001:4860:400b:c01::8d datawiki.googlelabs.com
-2001:4860:400b:c01::8d earthengine.googlelabs.com
-2001:4860:400b:c01::8d fastflip.googlelabs.com
-2001:4860:400b:c01::8d followfinder.googlelabs.com
-2001:4860:400b:c01::8d guru.googlelabs.com
-2001:4860:400b:c01::8d image-swirl.googlelabs.com
-2001:4860:400b:c01::8d juliamap.googlelabs.com
-2001:4860:400b:c01::8d listen.googlelabs.com
-2001:4860:400b:c01::8d livingstories.googlelabs.com
-2001:4860:400b:c01::8d newstimeline.googlelabs.com
-2001:4860:400b:c01::8d ngrams.googlelabs.com
-2001:4860:400b:c01::8d pagespeed.googlelabs.com
-2001:4860:400b:c01::8d relatedlinks.googlelabs.com
-2001:4860:400b:c01::8d scribe.googlelabs.com
-2001:4860:400b:c01::8d scriptconv.googlelabs.com
-2001:4860:400b:c01::8d similar-images.googlelabs.com
-2001:4860:400b:c01::8d storegadget.googlelabs.com
-2001:4860:400b:c01::8d swiffy.googlelabs.com
-2001:4860:400b:c01::8d tables.googlelabs.com
+2607:f8b0:4007:804::1009 labs.google.cn #www3.l.google.com
+2607:f8b0:4007:804::1009 labs.google.com #www3.l.google.com
+2607:f8b0:400e:c04::8d www.googlelabs.com
+2607:f8b0:400e:c04::8d browsersize.googlelabs.com
+2607:f8b0:400e:c04::8d bodybrowser.googlelabs.com
+2607:f8b0:400e:c04::8d citytours.googlelabs.com
+2607:f8b0:400e:c04::8d correlate.googlelabs.com
+2607:f8b0:400e:c04::8d datawiki.googlelabs.com
+2607:f8b0:400e:c04::8d earthengine.googlelabs.com
+2607:f8b0:400e:c04::8d fastflip.googlelabs.com
+2607:f8b0:400e:c04::8d followfinder.googlelabs.com
+2607:f8b0:400e:c04::8d guru.googlelabs.com
+2607:f8b0:400e:c04::8d image-swirl.googlelabs.com
+2607:f8b0:400e:c04::8d juliamap.googlelabs.com
+2607:f8b0:400e:c04::8d listen.googlelabs.com
+2607:f8b0:400e:c04::8d livingstories.googlelabs.com
+2607:f8b0:400e:c04::8d newstimeline.googlelabs.com
+2607:f8b0:400e:c04::8d ngrams.googlelabs.com
+2607:f8b0:400e:c04::8d pagespeed.googlelabs.com
+2607:f8b0:400e:c04::8d relatedlinks.googlelabs.com
+2607:f8b0:400e:c04::8d scribe.googlelabs.com
+2607:f8b0:400e:c04::8d scriptconv.googlelabs.com
+2607:f8b0:400e:c04::8d similar-images.googlelabs.com
+2607:f8b0:400e:c04::8d storegadget.googlelabs.com
+2607:f8b0:400e:c04::8d swiffy.googlelabs.com
+2607:f8b0:400e:c04::8d tables.googlelabs.com
 
 ## Google Mars 火星地图
-2607:f8b0:4007:804::1007 mars.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 mars.google.com #www3.l.google.com
 
 ## Maps 地图
 2607:f8b0:4007:804::1001 maps.google.com
-2607:f8b0:4007:804::100f maps.google.com.hk #maps-cctld.l.google.com
-2607:f8b0:4007:804::100f maps.google.com.tw #maps-cctld.l.google.com
-2607:f8b0:4007:804::1000 local.google.com #maps.l.google.com
-2607:f8b0:4007:804::1000 ditu.google.com #maps.l.google.com
-2607:f8b0:4007:804::1002 maps-api-ssl.google.com #clients.l.google.com
+2607:f8b0:4007:804::1017 maps.google.com.hk #maps-cctld.l.google.com
+2607:f8b0:4007:804::1017 maps.google.com.tw #maps-cctld.l.google.com
+2607:f8b0:4007:804::100e local.google.com #maps.l.google.com
+2607:f8b0:4007:804::100e ditu.google.com #maps.l.google.com
+2607:f8b0:4007:804::1000 maps-api-ssl.google.com #clients.l.google.com
 2607:f8b0:4007:804::1001 map.google.com #maps.google.com
-2607:f8b0:4007:804::1001 kh.google.com #keyhole.l.google.com
-2607:f8b0:4007:804::1000 khmdb.google.com #khmdb.l.google.com
-2607:f8b0:4007:804::1007 khm.google.com #khm.l.google.com
-2607:f8b0:4007:804::1007 khm0.google.com #khm.l.google.com
-2607:f8b0:4007:804::1007 khm1.google.com #khm.l.google.com
-2607:f8b0:4007:804::1007 khm2.google.com #khm.l.google.com
-2607:f8b0:4007:804::1007 khm3.google.com #khm.l.google.com
+2607:f8b0:4007:804::1004 kh.google.com #keyhole.l.google.com
+2607:f8b0:4007:804::1004 khmdb.google.com #khmdb.l.google.com
+2607:f8b0:4007:804::1009 khm.google.com #khm.l.google.com
+2607:f8b0:4007:804::1009 khm0.google.com #khm.l.google.com
+2607:f8b0:4007:804::1009 khm1.google.com #khm.l.google.com
+2607:f8b0:4007:804::1009 khm2.google.com #khm.l.google.com
+2607:f8b0:4007:804::1009 khm3.google.com #khm.l.google.com
 #2404:6800:4008:c00::64 cbk0.google.com #cbk.l.google.com
-2607:f8b0:4007:804::1002 cbk1.google.com #cbk.l.google.com
-2607:f8b0:4007:804::1002 cbk2.google.com #cbk.l.google.com
-2607:f8b0:4007:804::1002 cbk3.google.com #cbk.l.google.com
-2607:f8b0:4007:804::1005 khms.google.com #khms.l.google.com
-2607:f8b0:4007:804::1005 khms0.google.com #khms.l.google.com
-2607:f8b0:4007:804::1005 khms1.google.com #khms.l.google.com
-2607:f8b0:4007:804::1005 khms2.google.com #khms.l.google.com
-2607:f8b0:4007:804::1005 khms3.google.com #khms.l.google.com
-2607:f8b0:4007:804::1005 cbks0.google.com #khms.l.google.com
-2607:f8b0:4007:804::1005 cbks1.google.com #khms.l.google.com
-2607:f8b0:4007:804::1005 cbks2.google.com #khms.l.google.com
-2607:f8b0:4007:804::1005 cbks3.google.com #khms.l.google.com
-2607:f8b0:4007:804::1007 mw1.google.com #mw-small.l.google.com
-2607:f8b0:4007:804::1001 mw2.google.com #mw-medium.l.google.com
-2607:f8b0:4007:804::1009 mt.google.com #mt.l.google.com
-2607:f8b0:4007:804::1009 mt0.google.com #mt.l.google.com
-2607:f8b0:4007:804::1009 mt1.google.com #mt.l.google.com
-2607:f8b0:4007:804::1009 mt2.google.com #mt.l.google.com
-2607:f8b0:4007:804::1009 mt3.google.com #mt.l.google.com
-2607:f8b0:4007:804::1006 gg.google.com
-2607:f8b0:4007:804::1006 gg.google.cn
-2607:f8b0:4007:804::100f id.google.com #id.l.google.com
-2607:f8b0:4007:804::100f id.google.cn #id.l.google.com
+2607:f8b0:4007:804::1003 cbk1.google.com #cbk.l.google.com
+2607:f8b0:4007:804::1003 cbk2.google.com #cbk.l.google.com
+2607:f8b0:4007:804::1003 cbk3.google.com #cbk.l.google.com
+2607:f8b0:4007:804::1004 khms.google.com #khms.l.google.com
+2607:f8b0:4007:804::1004 khms0.google.com #khms.l.google.com
+2607:f8b0:4007:804::1004 khms1.google.com #khms.l.google.com
+2607:f8b0:4007:804::1004 khms2.google.com #khms.l.google.com
+2607:f8b0:4007:804::1004 khms3.google.com #khms.l.google.com
+2607:f8b0:4007:804::1004 cbks0.google.com #khms.l.google.com
+2607:f8b0:4007:804::1004 cbks1.google.com #khms.l.google.com
+2607:f8b0:4007:804::1004 cbks2.google.com #khms.l.google.com
+2607:f8b0:4007:804::1004 cbks3.google.com #khms.l.google.com
+2607:f8b0:4007:804::1003 mw1.google.com #mw-small.l.google.com
+2607:f8b0:4007:804::1009 mw2.google.com #mw-medium.l.google.com
+2607:f8b0:4007:804::1008 mt.google.com #mt.l.google.com
+2607:f8b0:4007:804::1008 mt0.google.com #mt.l.google.com
+2607:f8b0:4007:804::1008 mt1.google.com #mt.l.google.com
+2607:f8b0:4007:804::1008 mt2.google.com #mt.l.google.com
+2607:f8b0:4007:804::1008 mt3.google.com #mt.l.google.com
+2607:f8b0:4007:804::1003 gg.google.com
+2607:f8b0:4007:804::1003 gg.google.cn
+2607:f8b0:400e:c02::5e id.google.com #id.l.google.com
+2607:f8b0:400e:c02::5e id.google.cn #id.l.google.com
 2607:f8b0:400e:c04::a0 ditu.google.cn
 2607:f8b0:400e:c04::a0 mt.google.cn #ditu.google.cn
 2607:f8b0:400e:c04::a0 mt0.google.cn
-2607:f8b0:400e:c03::a0 mt1.google.cn
+2607:f8b0:400e:c04::a0 mt1.google.cn
 2607:f8b0:400e:c04::a0 mt2.google.cn
-2001:4860:400b:c01::a0 mt3.google.cn
-2607:f8b0:4007:804::1005 mts.google.com #mts.l.google.com
-2607:f8b0:4007:804::1005 mts0.google.com #mts.l.google.com
-2607:f8b0:4007:804::1005 mts1.google.com #mts.l.google.com
-2607:f8b0:4007:804::1005 mts2.google.com #mts.l.google.com
-2607:f8b0:4007:804::1005 mts3.google.com #mts.l.google.com
-2001:4860:400b:c01::a0 maps.gstatic.cn #www.gstatic.cn
-2607:f8b0:4007:804::1002 mobilemaps.clients.google.com #clients.l.google.com
+2607:f8b0:400e:c04::a0 mt3.google.cn
+2607:f8b0:4007:804::1002 mts.google.com #mts.l.google.com
+2607:f8b0:4007:804::1002 mts0.google.com #mts.l.google.com
+2607:f8b0:4007:804::1002 mts1.google.com #mts.l.google.com
+2607:f8b0:4007:804::1002 mts2.google.com #mts.l.google.com
+2607:f8b0:4007:804::1002 mts3.google.com #mts.l.google.com
+2607:f8b0:400e:c04::a0 maps.gstatic.cn #www.gstatic.cn
+2607:f8b0:4007:804::1000 mobilemaps.clients.google.com #clients.l.google.com
 
 ## Music Beta by Google 云音乐服务
-2607:f8b0:4007:804::1007 music.google.com #www3.l.google.com
-2001:4860:400b:c01::75 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
+2607:f8b0:4007:804::1009 music.google.com #www3.l.google.com
+2607:f8b0:400e:c04::74 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
 2607:f8b0:4007:804::100b music.googleusercontent.com #googlehosted.l.googleusercontent.com
-2001:4860:400b:c01::74 uploadsj.clients.google.com #large-uploads.l.google.com
+2607:f8b0:400e:c02::75 uploadsj.clients.google.com #large-uploads.l.google.com
 
 ## News 资讯
-2607:f8b0:4007:804::1001 news.google.com #news.l.google.com
-2607:f8b0:4007:804::100f news.google.com.hk #news-cctld.l.google.com
-2607:f8b0:4007:804::100f news.google.com.tw #news-cctld.l.google.com
+2607:f8b0:4007:804::1007 news.google.com #news.l.google.com
+2607:f8b0:4007:804::101f news.google.com.hk #news-cctld.l.google.com
+2607:f8b0:4007:804::101f news.google.com.tw #news-cctld.l.google.com
 
 ## Orkut 网络社区
-2001:4860:400b:c01::56 www.orkut.com #orkut-fe.l.google.com
-2001:4860:400b:c01::56 www.orkut.gmodules.com #orkut-opensocial.l.googleusercontent.com
-2001:4860:400b:c01::56 *.a.orkut.gmodules.com #orkut-opensocial.l.googleusercontent.com
-2001:4860:400b:c01::55 img1.orkut.com #orkut-images.l.google.com
-2001:4860:400b:c01::55 img2.orkut.com #orkut-images.l.google.com
-2001:4860:400b:c01::55 img3.orkut.com #orkut-images.l.google.com
-2001:4860:400b:c01::55 img4.orkut.com #orkut-images.l.google.com
-2001:4860:400b:c01::55 img5.orkut.com #orkut-images.l.google.com
-2001:4860:400b:c01::55 img6.orkut.com #orkut-images.l.google.com
-2001:4860:400b:c01::55 img7.orkut.com #orkut-images.l.google.com
-2001:4860:400b:c01::55 img8.orkut.com #orkut-images.l.google.com
-2001:4860:400b:c01::55 img9.orkut.com #orkut-images.l.google.com
-2001:4860:400b:c01::56 static1.orkut.com #orkut-static.l.google.com
-2001:4860:400b:c01::56 static2.orkut.com #orkut-static.l.google.com
-2001:4860:400b:c01::56 static3.orkut.com #orkut-static.l.google.com
-2001:4860:400b:c01::56 static4.orkut.com #orkut-static.l.google.com
-2001:4860:400b:c01::55 promote.orkut.com #orkut-promote.l.google.com
-2607:f8b0:4007:804::1012 help.orkut.com #www2.l.google.com
+2607:f8b0:400e:c04::57 www.orkut.com #orkut-fe.l.google.com
+2607:f8b0:400e:c04::57 www.orkut.gmodules.com #orkut-opensocial.l.googleusercontent.com
+2607:f8b0:400e:c04::57 *.a.orkut.gmodules.com #orkut-opensocial.l.googleusercontent.com
+2607:f8b0:400e:c04::56 img1.orkut.com #orkut-images.l.google.com
+2607:f8b0:400e:c04::56 img2.orkut.com #orkut-images.l.google.com
+2607:f8b0:400e:c04::56 img3.orkut.com #orkut-images.l.google.com
+2607:f8b0:400e:c04::56 img4.orkut.com #orkut-images.l.google.com
+2607:f8b0:400e:c04::56 img5.orkut.com #orkut-images.l.google.com
+2607:f8b0:400e:c04::56 img6.orkut.com #orkut-images.l.google.com
+2607:f8b0:400e:c04::56 img7.orkut.com #orkut-images.l.google.com
+2607:f8b0:400e:c04::56 img8.orkut.com #orkut-images.l.google.com
+2607:f8b0:400e:c04::56 img9.orkut.com #orkut-images.l.google.com
+2607:f8b0:400e:c04::55 static1.orkut.com #orkut-static.l.google.com
+2607:f8b0:400e:c04::55 static2.orkut.com #orkut-static.l.google.com
+2607:f8b0:400e:c04::55 static3.orkut.com #orkut-static.l.google.com
+2607:f8b0:400e:c04::55 static4.orkut.com #orkut-static.l.google.com
+2607:f8b0:400e:c04::55 promote.orkut.com #orkut-promote.l.google.com
+2607:f8b0:4007:804::1010 help.orkut.com #www2.l.google.com
 2607:f8b0:4007:804::100b officialorkutblog.blogspot.com #blogspot.l.googleusercontent.com
-2001:4860:400b:c01::79 blog.orkut.com #ghs.l.google.com
-2001:4860:400b:c01::79 en.blog.orkut.com #ghs.l.google.com
+2607:f8b0:400e:c04::79 blog.orkut.com #ghs.l.google.com
+2607:f8b0:400e:c04::79 en.blog.orkut.com #ghs.l.google.com
 
 ## Pack 软件精选
-2607:f8b0:4007:804::1012 pack.google.com #www2.l.google.com
-2607:f8b0:4007:804::1006 cache.pack.google.com #redirector.c.pack.google.com
-2607:f8b0:4007:804::1012 pack.google.cn #www2.l.google.com
+2607:f8b0:4007:804::1010 pack.google.com #www2.l.google.com
+2607:f8b0:4007:804::1003 cache.pack.google.com #redirector.c.pack.google.com
+2607:f8b0:4007:804::1010 pack.google.cn #www2.l.google.com
 
 ## Photo/Picasa 照片/网络相册
-2607:f8b0:4007:804::100e photos.google.com #picasaweb.l.google.com
-2607:f8b0:4007:804::1012 picasa.google.com #www2.l.google.com
-2607:f8b0:4007:804::100e picasaweb.google.com #picasaweb.l.google.com
-2607:f8b0:4007:804::1002 lh2.google.com #lh2.l.google.com
-2607:f8b0:4007:804::1002 lh3.google.com #lh2.l.google.com
-2607:f8b0:4007:804::1002 lh4.google.com #lh2.l.google.com
-2607:f8b0:4007:804::1002 lh5.google.com #lh2.l.google.com
-2607:f8b0:4007:804::1002 lh6.google.com #lh2.l.google.com
-2001:4860:400b:c01::74 upload.photos.google.com #large-uploads.l.google.com
+2607:f8b0:4007:804::1009 photos.google.com #picasaweb.l.google.com
+2607:f8b0:4007:804::1010 picasa.google.com #www2.l.google.com
+2607:f8b0:4007:804::1009 picasaweb.google.com #picasaweb.l.google.com
+2607:f8b0:4007:804::1006 lh2.google.com #lh2.l.google.com
+2607:f8b0:4007:804::1006 lh3.google.com #lh2.l.google.com
+2607:f8b0:4007:804::1006 lh4.google.com #lh2.l.google.com
+2607:f8b0:4007:804::1006 lh5.google.com #lh2.l.google.com
+2607:f8b0:4007:804::1006 lh6.google.com #lh2.l.google.com
+2607:f8b0:400e:c02::75 upload.photos.google.com #large-uploads.l.google.com
 
 ## Profiles 个人主页
-2607:f8b0:4007:804::1005 profiles.google.com
-2607:f8b0:4007:804::1004 plusone.google.com #plus.l.google.com
-2607:f8b0:4007:804::1008 plus.google.com
+2607:f8b0:4007:804::1006 profiles.google.com
+2607:f8b0:4007:804::1002 plusone.google.com #plus.l.google.com
+2607:f8b0:4007:804::1009 plus.google.com
 #2404:6800:4008:c00::8a plus.google.com.hk # URL 重定向
-2607:f8b0:4007:804::1007 plus.url.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 plus.url.google.com #www3.l.google.com
 #2404:6800:4008:c00::8a plus.url.google.com.hk #实际上不存在的域名
-2607:f8b0:4007:804::1007 developers.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 cloudssh.developers.google.com #www3.l.google.com
-2001:4860:400b:c01::52 source.developers.google.com
 
 ## Reader 阅读器
-2607:f8b0:4007:804::1012 reader.google.com #www2.l.google.com
+2607:f8b0:4007:804::1010 reader.google.com #www2.l.google.com
 
 ## Research
-2607:f8b0:4007:804::1007 research.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 research.google.com #www3.l.google.com
 
 ## SafeBrowing 安全检测服务
-2607:f8b0:4007:804::1006 sb.google.com #sb.l.google.com
-2607:f8b0:4007:804::1004 sb-ssl.google.com #sb-ssl.l.google.com
-2607:f8b0:4007:804::1006 safebrowsing.google.com #sb.l.google.com
-2607:f8b0:4012:806::1000 alt1-safebrowsing.google.com
-2607:f8b0:4007:804::1002 safebrowsing.clients.google.com #clients.l.google.com
-2607:f8b0:4007:804::1007 safebrowsing-cache.google.com #safebrowsing.cache.l.google.com
+2607:f8b0:4007:804::1009 sb.google.com #sb.l.google.com
+2607:f8b0:4007:804::1009 sb-ssl.google.com #sb-ssl.l.google.com
+2607:f8b0:4007:804::1009 safebrowsing.google.com #sb.l.google.com
+2607:f8b0:4012:800::1008 alt1-safebrowsing.google.com
+2607:f8b0:4007:804::1000 safebrowsing.clients.google.com #clients.l.google.com
+2607:f8b0:4007:804::1009 safebrowsing-cache.google.com #safebrowsing.cache.l.google.com
 
 ## Sandbox 服务沙盒
-2001:4860:400b:c01::451 sandbox.google.com #sandbox.l.google.com
+2607:f8b0:400e:c04::451 sandbox.google.com #sandbox.l.google.com
 
 ## Scholar 学术搜索
 2607:f8b0:4007:804::1002 scholar.google.com
 2607:f8b0:4007:804::1002 scholar.google.com.hk
 2607:f8b0:4007:804::1002 scholar.google.com.tw
-2001:4860:400b:c01::a0 scholar.google.cn #www.google.cn
+2607:f8b0:400e:c04::a0 scholar.google.cn #www.google.cn
 
 ## Sites 协作平台
-2607:f8b0:4007:804::1007 sites.google.com #www3.l.google.com
-2001:4860:400b:c01::79 gsamplemaps.googlepages.com #ghs.googlehosted.com
+2607:f8b0:4007:804::1009 sites.google.com #www3.l.google.com
+2607:f8b0:400e:c04::79 gsamplemaps.googlepages.com #ghs.googlehosted.com
 
 ## SketchUp 3D 建模工具
 #2404:6800:4008:c00::66 sketchup.google.com
 
 ## Google Talk/Chat 聊天
-2001:4860:400b:c01::7d talk.google.com #talk.l.google.com
+2607:f8b0:400e:c04::7d talk.google.com #talk.l.google.com
 #2404:6800:4008:c00::62 default.talk.google.com
-2607:f8b0:4007:804::100e talkgadget.google.com #talkgadget.l.google.com
+2607:f8b0:4007:804::1002 talkgadget.google.com #talkgadget.l.google.com
 #2404:6800:4008:c00::62 rtmp0.google.com
 #2404:6800:4008:c00::62 users.talk.google.com
 2607:f8b0:400e:c03::bc mtalk.google.com #mobile-gtalk.l.google.com
 
 ## Tools 工具
-2607:f8b0:4007:804::1008 tools.google.com #tools.l.google.com
-2607:f8b0:4007:804::1008 toolbar.google.com #tools.l.google.com
-2607:f8b0:4007:804::1008 toolbar.google.com.hk #tools.l.google.com
+2607:f8b0:4007:804::100e tools.google.com #tools.l.google.com
+2607:f8b0:4007:804::100e toolbar.google.com #tools.l.google.com
+2607:f8b0:4007:804::100e toolbar.google.com.hk #tools.l.google.com
 
 ## Translate 翻译
-2607:f8b0:4007:804::1007 translate.google.com #www3.l.google.com
-2607:f8b0:4007:804::1018 translate.google.com.hk
-2607:f8b0:4007:804::100f translate.google.com.tw
-2001:4860:400b:c01::a0 translate.google.cn #www.google.cn
+2607:f8b0:4007:804::1009 translate.google.com #www3.l.google.com
+2607:f8b0:4007:804::101f translate.google.com.hk
+2607:f8b0:4007:804::1017 translate.google.com.tw
+2607:f8b0:400e:c04::a0 translate.google.cn #www.google.cn
 
 ## Trends 趋势
-2607:f8b0:4007:804::1012 trends.google.com #www2.l.google.com
-2001:4860:400b:c01::a0 www.gvt0.cn
-2001:4860:400b:c01::a0 0.gvt0.cn #www.gvt0.cn
-2001:4860:400b:c01::a0 1.gvt0.cn #www.gvt0.cn
-2001:4860:400b:c01::a0 2.gvt0.cn #www.gvt0.cn
-2001:4860:400b:c01::a0 3.gvt0.cn #www.gvt0.cn
+2607:f8b0:4007:804::1010 trends.google.com #www2.l.google.com
+2607:f8b0:400e:c04::a0 www.gvt0.cn
+2607:f8b0:400e:c04::a0 0.gvt0.cn #www.gvt0.cn
+2607:f8b0:400e:c04::a0 1.gvt0.cn #www.gvt0.cn
+2607:f8b0:400e:c04::a0 2.gvt0.cn #www.gvt0.cn
+2607:f8b0:400e:c04::a0 3.gvt0.cn #www.gvt0.cn
 
 ## Wave 波浪
 2607:f8b0:4007:804::1005 wave.google.com #www4.l.google.com
 #2404:6800:4008:c00::76 wave0.google.com
 2607:f8b0:4007:804::1005 wave1.google.com #www4.l.google.com
-2607:f8b0:4007:804::1010 googlewave.com
+2607:f8b0:4007:804::1014 googlewave.com
 
 ## WiFi
-#2404:6800:4008:c00::7b wifi.google.com
+2607:f8b0:400e:c04::7b wifi.google.com
 
 ## iGoogle Modules iGoogle 小工具
-2607:f8b0:4007:804::1011 gmodules.com
+2607:f8b0:4007:804::1013 gmodules.com
 2607:f8b0:4007:804::100b www.gmodules.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:804::100b www.ig.gmodules.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:804::100b ig.gmodules.com #googlehosted.l.googleusercontent.com
@@ -716,103 +749,103 @@
 2607:f8b0:4007:804::100b img2.gmodules.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:804::100b img3.gmodules.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:804::100b skins.gmodules.com #googlehosted.l.googleusercontent.com
-2607:f8b0:4007:804::1004 friendconnect.gmodules.com #gadgets.l.googleusercontent.com
-2607:f8b0:4007:804::1004 0.blogger.gmodules.com #gadgets.l.googleusercontent.com
-2607:f8b0:4007:804::1012 partnerpage.google.com #www2.l.google.com
+2607:f8b0:4007:804::100e friendconnect.gmodules.com #gadgets.l.googleusercontent.com
+2607:f8b0:4007:804::100e 0.blogger.gmodules.com #gadgets.l.googleusercontent.com
+2607:f8b0:4007:804::1010 partnerpage.google.com #www2.l.google.com
 2607:f8b0:4007:804::100b *.ig.ig.gmodules.com #googlehosted.l.googleusercontent.com
 
 ## GGPht Google 图片存储
-2607:f8b0:4007:804::100a geo0.ggpht.com
-2607:f8b0:4007:804::100c geo1.ggpht.com
-2607:f8b0:4007:804::100c geo2.ggpht.com
-2607:f8b0:4007:804::100a geo3.ggpht.com
-2607:f8b0:4007:804::100b gm1.ggpht.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b gm2.ggpht.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b gm3.ggpht.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b gm4.ggpht.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b lh3.ggpht.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b lh4.ggpht.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b lh5.ggpht.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b lh6.ggpht.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b nt0.ggpht.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b nt1.ggpht.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b nt2.ggpht.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b nt3.ggpht.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100c geo0.ggpht.com
+2607:f8b0:4007:804::100a geo1.ggpht.com
+2607:f8b0:4007:804::100b geo2.ggpht.com
+2607:f8b0:4007:804::100b geo3.ggpht.com
+2607:f8b0:4007:804::100a gm1.ggpht.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a gm2.ggpht.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a gm3.ggpht.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a gm4.ggpht.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a lh3.ggpht.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a lh4.ggpht.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a lh5.ggpht.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a lh6.ggpht.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a nt0.ggpht.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a nt1.ggpht.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a nt2.ggpht.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a nt3.ggpht.com #photos-ugc.l.googleusercontent.com
 #2404:6800:4008:c00::62 nt4.ggpht.com
 #2404:6800:4008:c00::62 nt5.ggpht.com
-2607:f8b0:4007:804::100b yt3.ggpht.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b yt4.ggpht.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b gp3.googleusercontent.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b gp4.googleusercontent.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b gp5.googleusercontent.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b gp6.googleusercontent.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a yt3.ggpht.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a yt4.ggpht.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a gp3.googleusercontent.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a gp4.googleusercontent.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a gp5.googleusercontent.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a gp6.googleusercontent.com #photos-ugc.l.googleusercontent.com
 2607:f8b0:4007:804::100b gp.googleusercontent.com #googlehosted.l.googleusercontent.com
 
 ## GStatic Google 静态文件存储
-2607:f8b0:4007:808::2003 accounts.gstatic.com
-2a00:1450:4010:c02::5e csi.gstatic.com
+2607:f8b0:4007:804::1018 accounts.gstatic.com
+2607:f8b0:4010:800::1017 csi.gstatic.com
 2607:f8b0:4007:804::1017 fonts.gstatic.com
 2607:f8b0:4007:804::101f maps.gstatic.com
 2607:f8b0:4007:804::101f ssl.gstatic.com
-2607:f8b0:4007:804::1017 www.gstatic.com
-2001:4860:400b:c01::a0 www.gstatic.cn
-2607:f8b0:4007:804::1006 encrypted-tbn0.gstatic.com
-2607:f8b0:4007:804::1004 encrypted-tbn1.gstatic.com
-2607:f8b0:4007:804::1007 encrypted-tbn2.gstatic.com
-2607:f8b0:4007:804::1009 encrypted-tbn3.gstatic.com
-2607:f8b0:4007:804::100f g0.gstatic.com
-2607:f8b0:4007:804::1017 g1.gstatic.com
-2607:f8b0:4007:804::1018 g2.gstatic.com
-2607:f8b0:4007:804::1017 g3.gstatic.com
-2607:f8b0:4007:804::1008 mt0.gstatic.com
+2607:f8b0:4007:804::101f www.gstatic.com
+2607:f8b0:400e:c04::a0 www.gstatic.cn
+2607:f8b0:4007:804::1000 encrypted-tbn0.gstatic.com
+2607:f8b0:4007:804::1009 encrypted-tbn1.gstatic.com
+2607:f8b0:4007:804::1002 encrypted-tbn2.gstatic.com
+2607:f8b0:4007:804::1002 encrypted-tbn3.gstatic.com
+2607:f8b0:4007:804::101f g0.gstatic.com
+2607:f8b0:4007:804::101f g1.gstatic.com
+2607:f8b0:4007:804::1017 g2.gstatic.com
+2607:f8b0:4007:804::1018 g3.gstatic.com
+2607:f8b0:4007:804::100e mt0.gstatic.com
 2607:f8b0:4007:804::1002 mt1.gstatic.com
-2607:f8b0:4007:804::1006 mt2.gstatic.com
-2607:f8b0:4007:804::1000 mt3.gstatic.com
-2607:f8b0:4007:804::1007 mt4.gstatic.com
-2607:f8b0:4007:804::1009 mt5.gstatic.com
-2607:f8b0:4007:804::100e mt6.gstatic.com
-2607:f8b0:4007:804::1002 mt7.gstatic.com
+2607:f8b0:4007:804::1002 mt2.gstatic.com
+2607:f8b0:4007:804::1002 mt3.gstatic.com
+2607:f8b0:4007:804::1001 mt4.gstatic.com
+2607:f8b0:4007:804::1007 mt5.gstatic.com
+2607:f8b0:4007:804::1009 mt6.gstatic.com
+2607:f8b0:4007:804::1006 mt7.gstatic.com
 2607:f8b0:4007:804::1012 t0.gstatic.com
-2607:f8b0:4007:804::1011 t1.gstatic.com
-2607:f8b0:4007:804::1013 t2.gstatic.com
-2607:f8b0:4007:804::1011 t3.gstatic.com
+2607:f8b0:4007:804::1014 t1.gstatic.com
+2607:f8b0:4007:804::1011 t2.gstatic.com
+2607:f8b0:4007:804::1013 t3.gstatic.com
 
 ## Google APIs 开发接口服务
-2607:f8b0:4007:804::1004 apis.google.com #plus.l.google.com
-2607:f8b0:4007:804::1002 chart.apis.google.com #clients.l.google.com
+2607:f8b0:4007:804::1002 apis.google.com #plus.l.google.com
+2607:f8b0:4007:804::1000 chart.apis.google.com #clients.l.google.com
 2607:f8b0:4007:804::1010 googleapis.com
-2001:4860:400b:c01::5f www.googleapis.com #googleapis.l.google.com
-2001:4860:400b:c01::5f *.googleapis.com #googleapis.l.google.com
-2001:4860:400b:c01::5f ajax.googleapis.com #googleapis.l.google.com
-2001:4860:400b:c01::5f android.googleapis.com #googleapis.l.google.com
-2001:4860:400b:c01::5f bigcache.googleapis.com #googleapis.l.google.com
-2001:4860:400b:c01::5f chart.googleapis.com #googleapis.l.google.com
-2001:4860:400b:c01::5f content.googleapis.com #googleapis.l.google.com
-2001:4860:400b:c01::5f fonts.googleapis.com #googleapis.l.google.com
-2001:4860:400b:c01::5f maps.googleapis.com #googleapis.l.google.com
-2001:4860:400b:c01::5f play.googleapis.com #googleapis.l.google.com
-2001:4860:400b:c01::5f plus.googleapis.com #googleapis.l.google.com
-2001:4860:400b:c01::5f redirector-bigcache.googleapis.com #googleapis.l.google.com
-2001:4860:400b:c01::5f translate.googleapis.com #googleapis.l.google.com
-2001:4860:400b:c01::5f youtube.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:809::200a www.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:809::200a *.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:809::200a ajax.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:809::200a android.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:809::200a bigcache.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:809::200a chart.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:809::200a content.googleapis.com #googleapis.l.google.com
+2607:f8b0:400e:c04::5f fonts.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:809::200a maps.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:809::200a play.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:809::200a plus.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:809::200a redirector-bigcache.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:809::200a translate.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:809::200a youtube.googleapis.com #googleapis.l.google.com
 #2404:6800:4008:c00::5f googleapis-ajax.google.com
-2607:f8b0:4007:804::1009 mt0.googleapis.com #mt.l.google.com
-2607:f8b0:4007:804::1009 mt1.googleapis.com #mt.l.google.com
-2607:f8b0:4007:804::1009 mt2.googleapis.com #mt.l.google.com
-2607:f8b0:4007:804::1009 mt3.googleapis.com #mt.l.google.com
+2607:f8b0:4007:804::1008 mt0.googleapis.com #mt.l.google.com
+2607:f8b0:4007:804::1008 mt1.googleapis.com #mt.l.google.com
+2607:f8b0:4007:804::1008 mt2.googleapis.com #mt.l.google.com
+2607:f8b0:4007:804::1008 mt3.googleapis.com #mt.l.google.com
 
 ## Google Hosted 托管服务
-2607:f8b0:4007:804::100b storage.googleapis.com #storage-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b bucket.commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b chromium-browser-symbols.commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
-2001:4860:400b:c01::80 c.commondatastorage.googleapis.com #storage.l.googleusercontent.com
+2607:f8b0:4007:804::100a storage.googleapis.com #storage-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a bucket.commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
+2607:f8b0:4007:804::100a chromium-browser-symbols.commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
+2607:f8b0:400e:c04::80 c.commondatastorage.googleapis.com #storage.l.googleusercontent.com
 2607:f8b0:4007:804::100b www.googlehosted.com #googlehosted.l.googleusercontent.com
-2607:f8b0:4007:804::1012 base.googlehosted.com #www2.l.google.com
-2607:f8b0:4007:804::1012 base0.googlehosted.com #www2.l.google.com
-2607:f8b0:4007:804::1012 base1.googlehosted.com #www2.l.google.com
-2607:f8b0:4007:804::1012 base2.googlehosted.com #www2.l.google.com
-2607:f8b0:4007:804::1012 base3.googlehosted.com #www2.l.google.com
+2607:f8b0:4007:804::1010 base.googlehosted.com #www2.l.google.com
+2607:f8b0:4007:804::1010 base0.googlehosted.com #www2.l.google.com
+2607:f8b0:4007:804::1010 base1.googlehosted.com #www2.l.google.com
+2607:f8b0:4007:804::1010 base2.googlehosted.com #www2.l.google.com
+2607:f8b0:4007:804::1010 base3.googlehosted.com #www2.l.google.com
 2607:f8b0:4007:804::100b base4.googlehosted.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:804::100b base5.googlehosted.com #googlehosted.l.googleusercontent.com
 
@@ -837,235 +870,235 @@
 #2404:6800:4008:c00::95 *.uk.doubleclick.net #dart.l.doubleclick.net
 #2404:6800:4008:c00::95 *.fr.doubleclick.net #dart.l.doubleclick.net
 #2404:6800:4008:c00::95 *.jp.doubleclick.net #dart.l.doubleclick.net
-2607:f8b0:4007:804::101a googleads.g.doubleclick.net #pagead46.l.doubleclick.net
-2607:f8b0:4007:804::101a www.googletagservices.com #pagead46.l.doubleclick.net
-2607:f8b0:4007:804::101a static.googleadsserving.cn #pagead46.l.doubleclick.net
+2607:f8b0:4007:804::100d googleads.g.doubleclick.net #pagead46.l.doubleclick.net
+2607:f8b0:4007:804::100d www.googletagservices.com #pagead46.l.doubleclick.net
+2607:f8b0:4007:804::100d static.googleadsserving.cn #pagead46.l.doubleclick.net
 
 ## Analytics 分析
-2607:f8b0:4007:804::1000 www.google-analytics.com #www-google-analytics.l.google.com
-2607:f8b0:4007:804::101e ssl.google-analytics.com #ssl-google-analytics.l.google.com
+2607:f8b0:4007:804::1003 www.google-analytics.com #www-google-analytics.l.google.com
+2607:f8b0:4007:80a::2008 ssl.google-analytics.com #ssl-google-analytics.l.google.com
 #2404:6800:4008:c00::61 *.google-analytics.com
-2607:f8b0:4007:804::1000 service.urchin.com #www-google-analytics.l.google.com
-2607:f8b0:4007:804::1007 analytics.google.com #www3.l.google.com
+2607:f8b0:4007:804::1003 service.urchin.com #www-google-analytics.l.google.com
+2607:f8b0:4007:804::1009 analytics.google.com #www3.l.google.com
 
 ## Google Art Project
-2607:f8b0:4007:804::1007 www.googleartproject.com #www3.l.google.com
-2001:4860:400b:c01::8d art-project-media.appspot.com #appspot.l.google.com
+2607:f8b0:4007:804::1009 www.googleartproject.com #www3.l.google.com
+2607:f8b0:400e:c04::8d art-project-media.appspot.com #appspot.l.google.com
 
 ## FeedBurner
-2607:f8b0:4007:804::1007 feedburner.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 www.feedburner.com #www3.l.google.com
+2607:f8b0:4007:804::1009 feedburner.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 www.feedburner.com #www3.l.google.com
 2607:f8b0:4007:804::1005 feeds.feedburner.com #www4.l.google.com
 2607:f8b0:4007:804::1005 feeds2.feedburner.com #www4.l.google.com
 2607:f8b0:4007:804::1005 feedproxy.google.com #www4.l.google.com
 
 ## The Go Programming Language Go 编程语言
-2001:4860:400b:c01::8d golang.org
-2001:4860:400b:c01::8d www.golang.org #golang.org
-2001:4860:400b:c01::8d blog.golang.org #golang.org
-2001:4860:400b:c01::8d play.golang.org #golang.org
-2001:4860:400b:c01::8d tip.golang.org #golang.org
-2001:4860:400b:c01::8d tour.golang.org #golang.org
+2607:f8b0:400e:c04::8d golang.org
+2607:f8b0:400e:c04::8d www.golang.org #golang.org
+2607:f8b0:400e:c04::8d blog.golang.org #golang.org
+2607:f8b0:400e:c04::8d play.golang.org #golang.org
+2607:f8b0:400e:c04::8d tip.golang.org #golang.org
+2607:f8b0:400e:c04::8d tour.golang.org #golang.org
 
 ## Goo.gl Google短网址服务
-2607:f8b0:4007:804::1002 goo.gl
-2607:f8b0:4007:804::1000 g.co
+2607:f8b0:4007:804::1000 goo.gl
+2607:f8b0:4007:804::1003 g.co
 
 ## html5rocks HTML5 推广专题网站
-2001:4860:400b:c01::79 www.html5rocks.com #ghs.l.google.com
-2001:4860:400b:c01::79 slides.html5rocks.com #ghs.l.google.com
-2001:4860:400b:c01::79 playground.html5rocks.com #ghs.l.google.com
-2001:4860:400b:c01::79 studio.html5rocks.com #ghs.l.google.com
+2607:f8b0:400e:c04::79 www.html5rocks.com #ghs.l.google.com
+2607:f8b0:400e:c04::79 slides.html5rocks.com #ghs.l.google.com
+2607:f8b0:400e:c04::79 playground.html5rocks.com #ghs.l.google.com
+2607:f8b0:400e:c04::79 studio.html5rocks.com #ghs.l.google.com
 
 ## Google.org Google 公益
-2001:4860:400b:c01::79 blog.google.org #ghs.l.google.com
+2607:f8b0:400e:c04::79 blog.google.org #ghs.l.google.com
 
 ## Panoramio
-2001:4860:400b:c01::8d www.panoramio.com #appspot.l.google.com
-2001:4860:400b:c01::80 static.panoramio.com #storage.l.googleusercontent.com
-2001:4860:400b:c01::79 blog.panoramio.com #ghs.l.google.com
+2607:f8b0:400e:c04::8d www.panoramio.com #appspot.l.google.com
+2607:f8b0:400e:c04::80 static.panoramio.com #storage.l.googleusercontent.com
+2607:f8b0:400e:c04::79 blog.panoramio.com #ghs.l.google.com
 
 ## Recaptcha 验证码服务
-2607:f8b0:4007:804::1013 www.recaptcha.net #www.l.google.com
-2607:f8b0:4007:804::1013 api.recaptcha.net #www.l.google.com
-2607:f8b0:4007:804::1013 api-secure.recaptcha.net #www.l.google.com
-2607:f8b0:4007:804::1013 mailhide.recaptcha.net #www.l.google.com
+2607:f8b0:4007:804::1012 www.recaptcha.net #www.l.google.com
+2607:f8b0:4007:804::1012 api.recaptcha.net #www.l.google.com
+2607:f8b0:4007:804::1012 api-secure.recaptcha.net #www.l.google.com
+2607:f8b0:4007:804::1012 mailhide.recaptcha.net #www.l.google.com
 
 ## Google Wave Federation Protocol · GWave 协议开源计划
-2001:4860:400b:c01::79 www.waveprotocol.org #ghs.l.google.com
+2607:f8b0:400e:c04::79 www.waveprotocol.org #ghs.l.google.com
 
 ## The WebM Project WebM 开放多媒体项目
-2607:f8b0:4007:804::1014 webmproject.org
-2607:f8b0:4007:804::1007 www.webmproject.org #www3.l.google.com
-2001:4860:400b:c01::79 lists.webmproject.org #ghs.l.google.com
-2001:4860:400b:c01::79 blog.webmproject.org #ghs.l.google.com
-2001:4860:400b:c01::79 www.webm-ccl.org #ghs.l.google.com
+2607:f8b0:4007:804::1011 webmproject.org
+2607:f8b0:4007:804::1009 www.webmproject.org #www3.l.google.com
+2607:f8b0:400e:c04::79 lists.webmproject.org #ghs.l.google.com
+2607:f8b0:400e:c04::79 blog.webmproject.org #ghs.l.google.com
+2607:f8b0:400e:c04::79 www.webm-ccl.org #ghs.l.google.com
 
 ## GoogleZip 数据压缩代理
 2800:3f0:4003:c00::72 check.googlezip.net
-2607:f8b0:4007:808::200c compress.googlezip.net
-2607:f8b0:4007:808::200c proxy.googlezip.net
-2607:f8b0:4007:808::200c proxy-dev.googlezip.net
+2607:f8b0:400e:c04::d3 compress.googlezip.net
+2607:f8b0:400e:c04::d3 proxy.googlezip.net
+2607:f8b0:400e:c04::d3 proxy-dev.googlezip.net
 
 ## Chrome 相关专题网站
-2607:f8b0:4007:804::1007 www.chromercise.com #www3.l.google.com
-2001:4860:400b:c01::79 www.chromeexperiments.com #ghs.l.google.com
-2001:4860:400b:c01::79 www.20thingsilearned.com #ghs.l.google.com
+2607:f8b0:4007:804::1009 www.chromercise.com #www3.l.google.com
+2607:f8b0:400e:c04::79 www.chromeexperiments.com #ghs.l.google.com
+2607:f8b0:400e:c04::79 www.20thingsilearned.com #ghs.l.google.com
 
 ## IPv6 专题
 #2404:6800:4008:c00::63 ipv6test.google.com #ipv6test.l.google.com
 #2404:6800:4008:c00::63 ipv4.google.com #ipv4.l.google.com
-2607:f8b0:4007:804::1010 ??????.ds.ipv6test.google.com #ds.ipv6test.l.google.com
-2607:f8b0:4007:804::1014 p2.*.*.??????.i2.ds.ipv6-exp.l.google.com
-2607:f8b0:400e:c01::97 chrome.googleechotest.com #chromeecho.l.google.com
+2607:f8b0:4007:804::1010 ds.ipv6test.google.com #ds.ipv6test.l.google.com
+2607:f8b0:4007:804::1012 i2.ds.ipv6-exp.l.google.com
+2607:f8b0:4001:c03::97 chrome.googleechotest.com #chromeecho.l.google.com
 
 ## 其他专题站
-2001:4860:400b:c01::79 www.creativelab5.com #ghs.google.com
-2607:f8b0:4007:804::1007 www.data-vocabulary.org #www3.l.google.com
-2607:f8b0:4007:804::1007 www.googleinsidesearch.com #www3.l.google.com
-2001:4860:400b:c01::79 www.teachparentstech.org #ghs.l.google.com
-2607:f8b0:4007:804::1005 www.agoogleaday.com #www4.l.google.com
-2001:4860:400b:c01::79 www.gosetsuden.jp #ghs.l.google.com
-2001:4860:400b:c01::79 www.thegooglepuzzle.com #ghs.l.google.com
-2001:4860:400b:c01::79 www.thegobridgeoglepuzzle.com #ghs.l.google.com
-2001:4860:400b:c01::8d www.thinkwithgoogle.com
-2607:f8b0:4007:804::1007 www.oneworldmanystories.com #www3.l.google.com
-2001:4860:400b:c01::79 www.googlezeitgeist.com #ghs.l.google.com
-2607:f8b0:4007:804::1007 www.googleinsidesearch.com #www3.l.google.com
+2607:f8b0:400e:c04::79 www.creativelab5.com #ghs.google.com
+2607:f8b0:4007:804::1009 www.data-vocabulary.org #www3.l.google.com
+2607:f8b0:4007:804::1009 www.googleinsidesearch.com #www3.l.google.com
+2607:f8b0:400e:c04::79 www.teachparentstech.org #ghs.l.google.com
+2607:f8b0:400e:c04::79 www.agoogleaday.com #www4.l.google.com
+2607:f8b0:400e:c04::79 www.gosetsuden.jp #ghs.l.google.com
+2607:f8b0:400e:c04::79 www.thegooglepuzzle.com #ghs.l.google.com
+2607:f8b0:400e:c04::79 www.thegobridgeoglepuzzle.com #ghs.l.google.com
+2607:f8b0:400e:c04::8d www.thinkwithgoogle.com
+2607:f8b0:4007:804::1009 www.oneworldmanystories.com #www3.l.google.com
+2607:f8b0:400e:c04::79 www.googlezeitgeist.com #ghs.l.google.com
+2607:f8b0:4007:804::1009 www.googleinsidesearch.com #www3.l.google.com
 #2404:6800:4008:c00::79 www.emailintervention.com #ghs.l.google.com
 #2404:6800:4008:c00::79 www.dartlang.org #ghs.l.google.com
 #2404:6800:4008:c00::79 try.dartlang.org #ghs.l.google.com
-2001:4860:400b:c01::79 news.dartlang.org #ghs.l.google.com
+2607:f8b0:400e:c04::79 news.dartlang.org #ghs.l.google.com
 
 ## l.google.com
 2607:f8b0:4007:804::1013 www.l.google.com
 2607:f8b0:4007:804::1012 www2.l.google.com
-2607:f8b0:4007:804::1007 www3.l.google.com
-2607:f8b0:4007:804::1005 www4.l.google.com
-2607:f8b0:4007:807::200d accounts.l.google.com
-2607:f8b0:4007:807::2003 accounts-cctld.l.google.com
+2607:f8b0:4007:804::1008 www3.l.google.com
+2607:f8b0:4007:804::1009 www4.l.google.com
+2607:f8b0:4007:808::200d accounts.l.google.com
+2607:f8b0:4007:808::2003 accounts-cctld.l.google.com
 #2404:6800:4008:c00::62 afd.l.google.com
-2607:f8b0:4001:c05::7d alt1.talk.l.google.com
-2607:f8b0:4007:804::1004 android-market.l.google.com
+2607:f8b0:4001:c03::7d alt1.talk.l.google.com
+2607:f8b0:4007:804::1003 android-market.l.google.com
 2607:f8b0:4007:804::1007 android.l.google.com
 #2404:6800:4008:c00::64 android-china.l.google.com
-2001:4860:400b:c01::66 adwords.l.google.com
-2001:4860:400b:c01::8d appspot.l.google.com
+2607:f8b0:400e:c04::8a adwords.l.google.com
+2607:f8b0:400e:c04::8d appspot.l.google.com
 2607:f8b0:400e:c01::1a aspmx.l.google.com
 2607:f8b0:4007:804::101d b.googlemail.l.google.com
 2607:f8b0:4007:804::1001 bandaid-redirector.l.google.com
-2607:f8b0:4007:807::2009 blogger.l.google.com
-2607:f8b0:4007:804::100e bloggerphotos.l.google.com
-2607:f8b0:4007:804::100c blogspot.l.google.com
+2607:f8b0:4007:808::2009 blogger.l.google.com
+2607:f8b0:4007:804::1002 bloggerphotos.l.google.com
+2607:f8b0:4007:804::100b blogspot.l.google.com
 #2404:6800:4008:c00::66 browsersync.l.google.com
-2001:4860:400b:c01::bd browserchannel-docs.l.google.com
-2607:f8b0:4007:7::c cache.l.google.com
-2607:f8b0:4007:804::1002 cbk.l.google.com
-2607:f8b0:4007:804::1003 code.l.google.com
+2607:f8b0:400e:c04::bd browserchannel-docs.l.google.com
+2607:f8b0:4007:7::13 cache.l.google.com
+2607:f8b0:4007:804::1005 cbk.l.google.com
+2607:f8b0:4007:804::1000 code.l.google.com
 #2404:6800:4008:c00::73 checkout.l.google.com
-2607:f8b0:400e:c01::97 chromeecho.l.google.com
-2607:f8b0:4007:804::1002 clients.l.google.com
-2607:f8b0:4007:804::1018 clients-cctld.l.google.com
-2607:f8b0:4005:802::100f csi.l.google.com
+2607:f8b0:4001:c03::97 chromeecho.l.google.com
+2607:f8b0:4007:804::1000 clients.l.google.com
+2607:f8b0:4007:804::1017 clients-cctld.l.google.com
+2404:6800:4004:806::100f csi.l.google.com
 #2404:6800:4008:c00::68 desktop.l.google.com
-2607:f8b0:4007:804::100e dl.l.google.com
-2001:4860:400b:c01::5b dl-ssl.l.google.com
-2607:f8b0:4007:804::1010 ds.ipv6test.l.google.com
-2607:f8b0:4007:804::1000 encrypted-tbn.l.google.com
-2607:f8b0:4007:804::1007 gadgets.l.google.com
-2607:f8b0:400e:c04::6d gmail-imap.l.google.com
+2607:f8b0:4007:804::1000 dl.l.google.com
+2607:f8b0:400e:c04::5d dl-ssl.l.google.com
+2607:f8b0:4007:804::1011 ds.ipv6test.l.google.com
+2607:f8b0:4007:804::1006 encrypted-tbn.l.google.com
+2607:f8b0:4007:804::100e gadgets.l.google.com
+2607:f8b0:400e:c03::6d gmail-imap.l.google.com
 2607:f8b0:400e:c02::6d gmail-pop.l.google.com
-2800:3f0:4003:c00::6d gmail-smtp.l.google.com
-2001:4860:400b:c01::1a gmail-smtp-in.l.google.com
-2001:4860:400b:c01::6c gmail-smtp-msa.l.google.com
-2001:4860:400b:c01::79 ghs.l.google.com
-2001:4860:400b:c01::79 ghs46.l.google.com
-2001:4860:400b:c01::e gmr-smtp-in.l.google.com
-2001:4860:400b:c01::5f googleapis.l.google.com
+2607:f8b0:4001:c00::6c gmail-smtp.l.google.com
+2607:f8b0:400e:c04::1a gmail-smtp-in.l.google.com
+2607:f8b0:400e:c04::6c gmail-smtp-msa.l.google.com
+2607:f8b0:400e:c04::79 ghs.l.google.com
+2607:f8b0:400e:c04::79 ghs46.l.google.com
+2607:f8b0:400e:c04::e gmr-smtp-in.l.google.com
+2607:f8b0:4007:809::200a googleapis.l.google.com
 #2404:6800:4008:c00::5f googleapis-ajax.l.google.com
-2001:4860:400b:c01::52 googlecode.l.google.com
+2607:f8b0:400e:c04::52 googlecode.l.google.com
 2607:f8b0:4007:804::100a googlehosted.l.google.com
 2607:f8b0:4007:804::1016 googlemail.l.google.com
-2001:4860:400b:c01::10 googlemail-imap.l.google.com
-2001:4860:400b:c01::10 googlemail-pop.l.google.com
-2001:4860:400b:c01::10 googlemail-smtp.l.google.com
-2001:4860:400b:c01::8a groups.l.google.com
-2001:4860:400b:c01::66 history.l.google.com
+2607:f8b0:400e:c03::10 googlemail-imap.l.google.com
+2607:f8b0:400e:c03::10 googlemail-pop.l.google.com
+2607:f8b0:400e:c04::10 googlemail-smtp.l.google.com
+2607:f8b0:400e:c04::8b groups.l.google.com
+2607:f8b0:400e:c04::65 history.l.google.com
 2607:f8b0:4007:804::100f id.l.google.com
-2607:f8b0:4007:804::1002 images.l.google.com
+2607:f8b0:4007:804::1004 images.l.google.com
 #2404:6800:4008:c00::63 ipv4.l.google.com
-2607:f8b0:4007:804::1005 ipv6.l.google.com
+2607:f8b0:4007:804::1002 ipv6.l.google.com
 #2404:6800:4008:c00::63 ipv6test.l.google.com
-2607:f8b0:4007:804::1001 keyhole.l.google.com
-2607:f8b0:4007:804::1002 kh.l.google.com
-2607:f8b0:4007:804::1007 khm.l.google.com
-2607:f8b0:4007:804::1000 khmdb.l.google.com
+2607:f8b0:4007:804::1007 keyhole.l.google.com
+2607:f8b0:4007:804::1007 kh.l.google.com
+2607:f8b0:4007:804::1009 khm.l.google.com
+2607:f8b0:4007:804::1003 khmdb.l.google.com
 2607:f8b0:4007:804::1005 khms.l.google.com
-2001:4860:400b:c01::74 large-uploads.l.google.com
+2607:f8b0:400e:c02::75 large-uploads.l.google.com
 2607:f8b0:4007:804::1002 lh2.l.google.com
-2607:f8b0:4007:804::1000 maps.l.google.com
-2607:f8b0:4007:804::100f maps-cctld.l.google.com
-2607:f8b0:4007:807::200b mobile.l.google.com
-2607:f8b0:400e:c03::bc mobile-gtalk.l.google.com
-2607:f8b0:4007:804::1009 mt.l.google.com
-2607:f8b0:4007:804::1005 mts.l.google.com
+2607:f8b0:4007:804::1006 maps.l.google.com
+2607:f8b0:4007:804::1018 maps-cctld.l.google.com
+2607:f8b0:4007:808::200b mobile.l.google.com
+2607:f8b0:400e:c02::bc mobile-gtalk.l.google.com
+2607:f8b0:4007:804::100e mt.l.google.com
+2607:f8b0:4007:804::1008 mts.l.google.com
 2607:f8b0:4007:804::100a music-china.l.google.com
-2001:4860:400b:c01::75 music-streaming.l.google.com
-2607:f8b0:4007:804::1001 mw-medium.l.google.com
-2607:f8b0:4007:804::1007 mw-small.l.google.com
-2607:f8b0:4007:804::1001 news.l.google.com
-2001:4860:400b:c01::56 orkut-fe.l.google.com
-2001:4860:400b:c01::55 orkut-images.l.google.com
-2001:4860:400b:c01::55 orkut-opensocial.l.google.com
-2001:4860:400b:c01::55 orkut-promote.l.google.com
-2001:4860:400b:c01::56 orkut-static.l.google.com
+2607:f8b0:400e:c04::74 music-streaming.l.google.com
+2607:f8b0:4007:804::1006 mw-medium.l.google.com
+2607:f8b0:4007:804::100e mw-small.l.google.com
+2607:f8b0:4007:804::1009 news.l.google.com
+2607:f8b0:400e:c04::55 orkut-fe.l.google.com
+2607:f8b0:400e:c04::55 orkut-images.l.google.com
+2607:f8b0:400e:c04::55 orkut-opensocial.l.google.com
+2607:f8b0:400e:c04::55 orkut-promote.l.google.com
+2607:f8b0:400e:c04::56 orkut-static.l.google.com
 #2404:6800:4008:c00::9a pagead.l.google.com
-2001:4860:400b:c01::84 pagead-tpc.l.google.com
+2607:f8b0:400e:c04::84 pagead-tpc.l.google.com
 2607:f8b0:4007:804::100a pagead-googlehosted.l.google.com
 #2404:6800:4008:c00::9a partnerad.l.google.com
-2607:f8b0:4007:804::100e picasaweb.l.google.com
-2607:f8b0:4007:804::1004 plus.l.google.com
-2607:f8b0:4007:804::100a photos-ugc.l.google.com
-2001:4860:400b:c01::451 sandbox.l.google.com
-2607:f8b0:4007:804::1007 safebrowsing.cache.l.google.com
-2607:f8b0:4007:804::1006 sb.l.google.com
+2607:f8b0:4007:804::1007 picasaweb.l.google.com
+2607:f8b0:4007:804::100e plus.l.google.com
+2607:f8b0:4007:804::100c photos-ugc.l.google.com
+2607:f8b0:400e:c04::451 sandbox.l.google.com
+2607:f8b0:4007:804::1005 safebrowsing.cache.l.google.com
+2607:f8b0:4007:804::1009 sb.l.google.com
 2607:f8b0:4007:804::1004 sb-ssl.l.google.com
 2607:f8b0:4007:804::1002 scholar.l.google.com
 #2404:6800:4008:c00::66 sketchup.l.google.com
-2607:f8b0:4007:804::1005 spreadsheets.l.google.com
-2607:f8b0:4007:804::1003 spreadsheets-china.l.google.com
-2001:4860:400b:c01::75 sslvideo-upload.l.google.com
-2607:f8b0:4007:804::101e ssl-google-analytics.l.google.com
-2607:f8b0:4007:19::c static.cache.l.google.com
-2607:f8b0:4007:804::1006 suggestqueries.l.google.com
-2607:f8b0:4007:804::1014 tbn.l.google.com
-2001:4860:400b:c01::7d talk.l.google.com
-2607:f8b0:4007:804::100e talkgadget.l.google.com
-2607:f8b0:4001:c05::7d talkx.l.google.com #alt1.talk.l.google.com
-2607:f8b0:4007:804::1013 toolbarqueries.l.google.com
-2607:f8b0:4007:804::1008 tools.l.google.com
-2607:f8b0:4007:804::1007 video.l.google.com
-2607:f8b0:4007:804::1007 video-stats.l.google.com
-2607:f8b0:4007:804::1003 video-analytics.l.google.com
-2607:f8b0:4007:804::1007 video-thumbnails.l.google.com
-#2404:6800:4008:c00::7b wifi.l.google.com
-2607:f8b0:4007:804::1007 writely.l.google.com
+2607:f8b0:4007:804::1001 spreadsheets.l.google.com
+2607:f8b0:4007:804::1007 spreadsheets-china.l.google.com
+2607:f8b0:400e:c02::75 sslvideo-upload.l.google.com
+2607:f8b0:4007:808::2008 ssl-google-analytics.l.google.com
+2607:f8b0:4007:18::13 static.cache.l.google.com
+2607:f8b0:4007:804::1007 suggestqueries.l.google.com
+2607:f8b0:4007:804::1012 tbn.l.google.com
+2607:f8b0:400e:c04::7d talk.l.google.com
+2607:f8b0:4007:804::1002 talkgadget.l.google.com
+2607:f8b0:4001:c03::7d talkx.l.google.com #alt1.talk.l.google.com
+2607:f8b0:4007:809::2004 toolbarqueries.l.google.com
+2607:f8b0:4007:804::1001 tools.l.google.com
+2607:f8b0:4007:804::1004 video.l.google.com
+2607:f8b0:4007:804::1009 video-stats.l.google.com
+2607:f8b0:4007:804::1007 video-analytics.l.google.com
+2607:f8b0:4007:804::100e video-thumbnails.l.google.com
+2607:f8b0:400e:c04::7b wifi.l.google.com
+2607:f8b0:4007:804::1002 writely.l.google.com
 #2404:6800:4008:c00::62 writely-com.l.google.com
-2607:f8b0:4007:804::1002 writely-china.l.google.com
+2607:f8b0:4007:804::1003 writely-china.l.google.com
 2607:f8b0:4007:804::1000 www-google-analytics.l.google.com
-2607:f8b0:4007:809::2008 www-googletagmanager.l.google.com
-2607:f8b0:4007:804::1003 youtube-ui.l.google.com
-2001:4860:400b:c01::74 yt-video-upload.l.google.com
-2607:f8b0:4007:804::1000 ytimg.l.google.com
-2607:f8b0:4007:804::1000 ytstatic.l.google.com
+2607:f8b0:4007:804::101e www-googletagmanager.l.google.com
+2607:f8b0:4007:804::1007 youtube-ui.l.google.com
+2607:f8b0:400e:c02::74 yt-video-upload.l.google.com
+2607:f8b0:4007:804::100e ytimg.l.google.com
+2607:f8b0:4007:804::1005 ytstatic.l.google.com
 
 ## AdWords/AdSense 广告服务
 #2404:6800:4008:c00::62 www.googlesyndication.com
 #2404:6800:4008:c00::9a www.googleadservices.com #pagead.l.doubleclick.net
 #2404:6800:4008:c00::9a domains.googlesyndication.com #pagead.l.doubleclick.net
 2607:f8b0:4007:804::101a pagead2.googlesyndication.com #pagead46.l.doubleclick.net
-2001:4860:400b:c01::66 adwords.google.com #adwords.l.google.com
-2001:4860:400b:c01::66 adwords.google.sk #adwords.l.google.com
+2607:f8b0:400e:c04::65 adwords.google.com #adwords.l.google.com
+2607:f8b0:400e:c04::65 adwords.google.sk #adwords.l.google.com
 #2404:6800:4008:c00::9a partner.googleadservices.com #partnerad.l.doubleclick.net
 #2404:6800:4008:c00::62 pagead.google.com
 #2404:6800:4008:c00::9a pagead2.googleadservices.com #pagead.l.doubleclick.net
@@ -1331,6 +1364,7 @@
 ## Android Google 移动操作系统
 2607:f8b0:4007:804::1007 www.android.com #www3.l.google.com
 2607:f8b0:4007:804::1012 android.com
+2607:f8b0:4007:809::200e connectivitycheck.android.com
 2607:f8b0:4007:804::1007 developer.android.com #www3.l.google.com
 2607:f8b0:4007:804::1007 source.android.com #www3.l.google.com
 2607:f8b0:4007:804::1004 market.android.com #android-market.l.google.com
@@ -2238,11 +2272,11 @@
 2607:f8b0:4007:804::100b blogspot.l.googleusercontent.com
 2607:f8b0:4007:804::1004 gadgets.l.googleusercontent.com
 2607:f8b0:4007:804::100b googlehosted.l.googleusercontent.com
-2001:4860:400b:c01::52 googlecode.l.googleusercontent.com
-2001:4860:400b:c01::89 googlegroups.l.googleusercontent.com
-2001:4860:400b:c01::56 orkut-opensocial.l.googleusercontent.com
+2607:f8b0:400e:c04::52 googlecode.l.googleusercontent.com
+2607:f8b0:400e:c04::89 googlegroups.l.googleusercontent.com
+2607:f8b0:400e:c04::55 orkut-opensocial.l.googleusercontent.com
 2607:f8b0:4007:804::100b photos-ugc.l.googleusercontent.com
-2001:4860:400b:c01::80 storage.l.googleusercontent.com
+2607:f8b0:400e:c04::80 storage.l.googleusercontent.com
 2607:f8b0:4007:804::100b storage-ugc.l.googleusercontent.com
 2607:f8b0:4007:804::100b www-blogger-opensocial.googleusercontent.com
 2607:f8b0:4007:804::100b books.googleusercontent.com
@@ -2489,39 +2523,39 @@
 2607:f8b0:4007:804::100b 40-wave-opensocial.googleusercontent.com
 
 ## YouTube
-2607:f8b0:4007:804::1004 youtube.com
-2607:f8b0:4007:804::1003 www.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1003 au.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1003 ca.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1003 de.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1003 fr.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1003 jp.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1003 ru.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1003 uk.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1003 tw.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1007 ads.youtube.com #www3.l.google.com
-2607:f8b0:4007:804::1003 www.youtube-nocookie.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1000 m.youtube.com
-2607:f8b0:4007:804::1003 youtu.be
-2607:f8b0:4007:804::1005 gdata.youtube.com
-2001:4860:400b:c01::74 stage.gdata.youtube.com
-2607:f8b0:4007:804::1007 s.youtube.com #video-stats.l.google.com
-#2607:f8b0:4007:805::100e s2.youtube.com
-2607:f8b0:4007:804::1007 accounts.youtube.com #www3.l.google.com
-2607:f8b0:4007:804::1000 img.youtube.com #ytimg.l.google.com
+2607:f8b0:4007:804::100e youtube.com
+2607:f8b0:4007:804::1001 www.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1009 au.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1001 ca.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1009 de.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1009 fr.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1009 jp.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1009 ru.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1009 uk.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1009 tw.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1001 ads.youtube.com #www3.l.google.com
+2607:f8b0:4007:804::1009 www.youtube-nocookie.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1001 m.youtube.com
+2607:f8b0:4007:804::100e youtu.be
+2607:f8b0:4007:804::100e gdata.youtube.com
+2607:f8b0:400e:c02::75 stage.gdata.youtube.com
+2607:f8b0:4007:804::100e s.youtube.com #video-stats.l.google.com
+2607:f8b0:4007:805::100e s2.youtube.com
+2607:f8b0:4007:804::1001 accounts.youtube.com #www3.l.google.com
+2607:f8b0:4007:804::1007 img.youtube.com #ytimg.l.google.com
 2607:f8b0:4007:804::1012 help.youtube.com
-2001:4860:400b:c01::74 upload.youtube.com #yt-video-upload.l.google.com
-2001:4860:400b:c01::74 uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
-2607:f8b0:4007:804::1003 insight.youtube.com #video-analytics.l.google.com
-2001:4860:400b:c01::79 apiblog.youtube.com #ghs.l.google.com
+2607:f8b0:400e:c02::75 upload.youtube.com #yt-video-upload.l.google.com
+2607:f8b0:400e:c02::75 uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
+2607:f8b0:4007:804::1004 insight.youtube.com #video-analytics.l.google.com
+2607:f8b0:4007:804::1001 apiblog.youtube.com #ghs.l.google.com
 #2404:6800:4008:c00::64 clients1.youtube.com
 
-2607:f8b0:4007:804::1000 i.ytimg.com #ytimg.l.google.com
-2607:f8b0:4007:804::1000 i1.ytimg.com #ytimg.l.google.com
-2607:f8b0:4007:804::1000 i2.ytimg.com #ytimg.l.google.com
-2607:f8b0:4007:804::1000 i3.ytimg.com #ytimg.l.google.com
-2607:f8b0:4007:804::1000 i4.ytimg.com #ytimg.l.google.com
-2607:f8b0:4007:804::1000 s.ytimg.com #ytstatic.l.google.com
+2607:f8b0:4007:804::1007 i.ytimg.com #ytimg.l.google.com
+2607:f8b0:4007:804::1007 i1.ytimg.com #ytimg.l.google.com
+2607:f8b0:4007:804::1007 i2.ytimg.com #ytimg.l.google.com
+2607:f8b0:4007:804::1007 i3.ytimg.com #ytimg.l.google.com
+2607:f8b0:4007:804::1007 i4.ytimg.com #ytimg.l.google.com
+2607:f8b0:4007:804::1002 s.ytimg.com #ytstatic.l.google.com
 
 ## Google Video
 2607:f8b0:4007:804::1007 video.google.com #video.l.google.com
@@ -2535,7 +2569,7 @@
 2607:f8b0:4007:804::1007 4.gvt0.com #video-thumbnails.l.google.com
 2607:f8b0:4007:804::1007 5.gvt0.com #video-thumbnails.l.google.com
 
-2001:4860:400b:c01::75 upload.video.google.com #sslvideo-upload.l.google.com
+2607:f8b0:400e:c02::75 upload.video.google.com #sslvideo-upload.l.google.com
 2607:f8b0:4007:804::1007 video-stats.video.google.com #video-stats.l.google.com
 2607:f8b0:4007:804::1003 manifest.googlevideo.com
 
@@ -3675,15 +3709,53 @@
 2404:6800:4008:9::19 r20---tpe05s10.googlevideo.com
 
 ## SN编码
-223.196.82.12 r1---sn-pqx5jxaa0a5g-2o9e.googlevideo.com
-223.196.82.13 r2---sn-pqx5jxaa0a5g-2o9e.googlevideo.com
-223.196.82.14 r3---sn-pqx5jxaa0a5g-2o9e.googlevideo.com
-223.196.82.15 r4---sn-pqx5jxaa0a5g-2o9e.googlevideo.com
+2001:660:302a:1::c r1---sn-gxo5uxg-jqbe.googlevideo.com
+2001:660:302a:1::d r2---sn-gxo5uxg-jqbe.googlevideo.com
+2001:660:302a:1::e r3---sn-gxo5uxg-jqbe.googlevideo.com
+2001:660:302a:1::f r4---sn-gxo5uxg-jqbe.googlevideo.com
 
 2001:7f8:49:1::c r1---sn-gvopm-vu2e.googlevideo.com
 2001:7f8:49:1::d r2---sn-gvopm-vu2e.googlevideo.com
 2001:7f8:49:1::e r3---sn-gvopm-vu2e.googlevideo.com
 2001:7f8:49:1::f r4---sn-gvopm-vu2e.googlevideo.com
+2001:7f8:49:1::10 r5---sn-gvopm-vu2e.googlevideo.com
+2001:7f8:49:1::11 r6---sn-gvopm-vu2e.googlevideo.com
+
+2001:f40:0:5::c r1---sn-uphxqvujvh-30al.googlevideo.com
+2001:f40:0:5::d r2---sn-uphxqvujvh-30al.googlevideo.com
+2001:f40:0:5::e r3---sn-uphxqvujvh-30al.googlevideo.com
+
+2001:1438:0:1006::c r1---sn-8xgn5uxa-quhe.googlevideo.com
+2001:1438:0:1006::d r2---sn-8xgn5uxa-quhe.googlevideo.com
+2001:1438:0:1006::e r3---sn-8xgn5uxa-quhe.googlevideo.com
+2001:1438:0:1006::f r4---sn-8xgn5uxa-quhe.googlevideo.com
+
+2001:1900:2200:f::c r1---sn-a8au-p5qz.googlevideo.com
+2001:1900:2200:f::d r2---sn-a8au-p5qz.googlevideo.com
+2001:1900:2200:f::e r3---sn-a8au-p5qz.googlevideo.com
+2001:1900:2200:f::f r4---sn-a8au-p5qz.googlevideo.com
+2001:1900:2200:f::10 r5---sn-a8au-p5qz.googlevideo.com
+2001:1900:2200:f::11 r6---sn-a8au-p5qz.googlevideo.com
+2001:1900:2200:f::12 r7---sn-a8au-p5qz.googlevideo.com
+2001:1900:2200:f::13 r8---sn-a8au-p5qz.googlevideo.com
+
+2001:1900:2200:10::c r1---sn-a8au-cvne.googlevideo.com
+2001:1900:2200:10::d r2---sn-a8au-cvne.googlevideo.com
+2001:1900:2200:10::e r3---sn-a8au-cvne.googlevideo.com
+2001:1900:2200:10::f r4---sn-a8au-cvne.googlevideo.com
+2001:1900:2200:10::10 r5---sn-a8au-cvne.googlevideo.com
+2001:1900:2200:10::11 r6---sn-a8au-cvne.googlevideo.com
+2001:1900:2200:10::12 r7---sn-a8au-cvne.googlevideo.com
+2001:1900:2200:10::13 r8---sn-a8au-cvne.googlevideo.com
+
+2001:1900:2200:20::c r1---sn-a8au-naje.googlevideo.com
+2001:1900:2200:20::d r2---sn-a8au-naje.googlevideo.com
+2001:1900:2200:20::e r3---sn-a8au-naje.googlevideo.com
+2001:1900:2200:20::f r4---sn-a8au-naje.googlevideo.com
+2001:1900:2200:20::10 r5---sn-a8au-naje.googlevideo.com
+2001:1900:2200:20::11 r6---sn-a8au-naje.googlevideo.com
+2001:1900:2200:20::12 r7---sn-a8au-naje.googlevideo.com
+2001:1900:2200:20::13 r8---sn-a8au-naje.googlevideo.com
 
 2001:1900:2200:80::c r1---sn-a8au-co5e.googlevideo.com
 2001:1900:2200:80::d r2---sn-a8au-co5e.googlevideo.com
@@ -3694,17 +3766,76 @@
 2001:1900:2200:80::12 r7---sn-a8au-co5e.googlevideo.com
 2001:1900:2200:80::13 r8---sn-a8au-co5e.googlevideo.com
 
+2001:1bc8:100:1b::c r1---sn-oxc0a5-ixae.googlevideo.com
+2001:1bc8:100:1b::d r2---sn-oxc0a5-ixae.googlevideo.com
+2001:1bc8:100:1b::e r3---sn-oxc0a5-ixae.googlevideo.com
+2001:1bc8:100:1b::f r4---sn-oxc0a5-ixae.googlevideo.com
+
+2001:1bd0:1:12::c r1---sn-gxuxapu-hm2e.googlevideo.com
+2001:1bd0:1:12::d r2---sn-gxuxapu-hm2e.googlevideo.com
+2001:1bd0:1:12::e r3---sn-gxuxapu-hm2e.googlevideo.com
+
+2001:4350:0:12::c r1---sn-5up-u0oe.googlevideo.com
+2001:4350:0:12::d r2---sn-5up-u0oe.googlevideo.com
+2001:4350:0:12::e r3---sn-5up-u0oe.googlevideo.com
+2001:4350:0:12::f r4---sn-5up-u0oe.googlevideo.com
+2001:4350:0:12::10 r5---sn-5up-u0oe.googlevideo.com
+2001:4350:0:12::11 r6---sn-5up-u0oe.googlevideo.com
+2001:4350:0:12::12 r7---sn-5up-u0oe.googlevideo.com
+2001:4350:0:12::13 r8---sn-5up-u0oe.googlevideo.com
+
+2001:4350:2048:12::c r1---sn-5up-u0ol.googlevideo.com
+2001:4350:2048:12::d r2---sn-5up-u0ol.googlevideo.com
+2001:4350:2048:12::e r3---sn-5up-u0ol.googlevideo.com
+2001:4350:2048:12::f r4---sn-5up-u0ol.googlevideo.com
+2001:4350:2048:12::10 r5---sn-5up-u0ol.googlevideo.com
+2001:4350:2048:12::11 r6---sn-5up-u0ol.googlevideo.com
+2001:4350:2048:12::12 r7---sn-5up-u0ol.googlevideo.com
+2001:4350:2048:12::13 r8---sn-5up-u0ol.googlevideo.com
+
+2001:4498:a:200::c r1---sn-uphxqvujvh-30ae.googlevideo.com
+2001:4498:a:200::d r2---sn-uphxqvujvh-30ae.googlevideo.com
+2001:4498:a:200::e r3---sn-uphxqvujvh-30ae.googlevideo.com
+2001:4498:a:200::f r4---sn-uphxqvujvh-30ae.googlevideo.com
+
+2001:b000:182:c100::c r1---sn-ipoxu-un5e.googlevideo.com
+2001:b000:182:c100::d r2---sn-ipoxu-un5e.googlevideo.com
+2001:b000:182:c100::e r3---sn-ipoxu-un5e.googlevideo.com
+2001:b000:182:c100::f r4---sn-ipoxu-un5e.googlevideo.com
+2001:b000:182:c100::10 r5---sn-ipoxu-un5e.googlevideo.com
+2001:b000:182:c100::11 r6---sn-ipoxu-un5e.googlevideo.com
+2001:b000:182:c100::12 r7---sn-ipoxu-un5e.googlevideo.com
+2001:b000:182:c100::13 r8---sn-ipoxu-un5e.googlevideo.com
+
+2001:b000:182:c101::c r1---sn-ipoxu-un5l.googlevideo.com
+2001:b000:182:c101::d r2---sn-ipoxu-un5l.googlevideo.com
+2001:b000:182:c101::e r3---sn-ipoxu-un5l.googlevideo.com
+2001:b000:182:c101::f r4---sn-ipoxu-un5l.googlevideo.com
+2001:b000:182:c101::10 r5---sn-ipoxu-un5l.googlevideo.com
+2001:b000:182:c101::11 r6---sn-ipoxu-un5l.googlevideo.com
+2001:b000:182:c101::12 r7---sn-ipoxu-un5l.googlevideo.com
+2001:b000:182:c101::13 r8---sn-ipoxu-un5l.googlevideo.com
+
+2001:b032:2101::c r1---sn-ipoxu-un5z.googlevideo.com
+2001:b032:2101::d r2---sn-ipoxu-un5z.googlevideo.com
+2001:b032:2101::e r3---sn-ipoxu-un5z.googlevideo.com
+2001:b032:2101::f r4---sn-ipoxu-un5z.googlevideo.com
+2001:b032:2101::10 r5---sn-ipoxu-un5z.googlevideo.com
+2001:b032:2101::11 r6---sn-ipoxu-un5z.googlevideo.com
+2001:b032:2101::12 r7---sn-ipoxu-un5z.googlevideo.com
+2001:b032:2101::13 r8---sn-ipoxu-un5z.googlevideo.com
+
+2400:9800:0:f021::c r1---sn-xmjxajvh-jb3e.googlevideo.com
+2400:9800:0:f021::d r2---sn-xmjxajvh-jb3e.googlevideo.com
+2400:9800:0:f021::e r3---sn-xmjxajvh-jb3e.googlevideo.com
+2400:9800:0:f021::f r4---sn-xmjxajvh-jb3e.googlevideo.com
+
 2400:c700:2000:2::c r1---sn-pqx5jxaa0a5g-2o9l.googlevideo.com
 2400:c700:2000:2::d r2---sn-pqx5jxaa0a5g-2o9l.googlevideo.com
 2400:c700:2000:2::e r3---sn-pqx5jxaa0a5g-2o9l.googlevideo.com
 2400:c700:2000:2::f r4---sn-pqx5jxaa0a5g-2o9l.googlevideo.com
 2400:c700:2000:2::10 r5---sn-pqx5jxaa0a5g-2o9l.googlevideo.com
 2400:c700:2000:2::11 r6---sn-pqx5jxaa0a5g-2o9l.googlevideo.com
-
-2400:9800:0:f021::c r1---sn-xmjxajvh-jb3e.googlevideo.com
-2400:9800:0:f021::d r2---sn-xmjxajvh-jb3e.googlevideo.com
-2400:9800:0:f021::e r3---sn-xmjxajvh-jb3e.googlevideo.com
-2400:9800:0:f021::f r4---sn-xmjxajvh-jb3e.googlevideo.com
 
 2403:5000:171:24::c r1---sn-ibj-i3bs.googlevideo.com
 2403:5000:171:24::d r2---sn-ibj-i3bs.googlevideo.com
@@ -3723,6 +3854,11 @@
 2406:e100:0:1::e r3---sn-pmn4vg5aa-hoae.googlevideo.com
 2406:e100:0:1::f r4---sn-pmn4vg5aa-hoae.googlevideo.com
 
+2407:0:0:10::c r1---sn-poqvn5u-jb3e.googlevideo.com
+2407:0:0:10::d r2---sn-poqvn5u-jb3e.googlevideo.com
+2407:0:0:10::e r3---sn-poqvn5u-jb3e.googlevideo.com
+2407:0:0:10::f r4---sn-poqvn5u-jb3e.googlevideo.com
+
 2407:0:0:11::c r1---sn-poqvn5u-jb3l.googlevideo.com
 2407:0:0:11::d r2---sn-poqvn5u-jb3l.googlevideo.com
 2407:0:0:11::e r3---sn-poqvn5u-jb3l.googlevideo.com
@@ -3736,6 +3872,38 @@
 2620:11a:a00c::11 r6---sn-hpjx-hn2e.googlevideo.com
 2620:11a:a00c::12 r7---sn-hpjx-hn2e.googlevideo.com
 2620:11a:a00c::13 r8---sn-hpjx-hn2e.googlevideo.com
+
+2620:11a:a00e::c r1---sn-bvvbax-hn2e.googlevideo.com
+2620:11a:a00e::d r2---sn-bvvbax-hn2e.googlevideo.com
+2620:11a:a00e::e r3---sn-bvvbax-hn2e.googlevideo.com
+2620:11a:a00e::f r4---sn-bvvbax-hn2e.googlevideo.com
+2620:11a:a00e::10 r5---sn-bvvbax-hn2e.googlevideo.com
+2620:11a:a00e::11 r6---sn-bvvbax-hn2e.googlevideo.com
+2620:11a:a00e::12 r7---sn-bvvbax-hn2e.googlevideo.com
+2620:11a:a00e::13 r8---sn-bvvbax-hn2e.googlevideo.com
+
+2806:10a0:cfff:3::c r1---sn-0opoxu-2cjd.googlevideo.com
+2806:10a0:cfff:3::d r2---sn-0opoxu-2cjd.googlevideo.com
+2806:10a0:cfff:3::e r3---sn-0opoxu-2cjd.googlevideo.com
+2806:10a0:cfff:3::f r4---sn-0opoxu-2cjd.googlevideo.com
+2806:10a0:cfff:3::10 r5---sn-0opoxu-2cjd.googlevideo.com
+2806:10a0:cfff:3::11 r6---sn-0opoxu-2cjd.googlevideo.com
+2806:10a0:cfff:3::12 r7---sn-0opoxu-2cjd.googlevideo.com
+2806:10a0:cfff:3::13 r8---sn-0opoxu-2cjd.googlevideo.com
+
+2a00:800:1100::c r1---sn-uxaxufv-8pxe.googlevideo.com
+2a00:800:1100::d r2---sn-uxaxufv-8pxe.googlevideo.com
+2a00:800:1100::e r3---sn-uxaxufv-8pxe.googlevideo.com
+2a00:800:1100::f r4---sn-uxaxufv-8pxe.googlevideo.com
+2a00:800:1100::10 r5---sn-uxaxufv-8pxe.googlevideo.com
+2a00:800:1100::11 r6---sn-uxaxufv-8pxe.googlevideo.com
+
+2a00:800:1100:1::c r1---sn-uxaxufv-8pxl.googlevideo.com
+2a00:800:1100:1::d r2---sn-uxaxufv-8pxl.googlevideo.com
+2a00:800:1100:1::e r3---sn-uxaxufv-8pxl.googlevideo.com
+2a00:800:1100:1::f r4---sn-uxaxufv-8pxl.googlevideo.com
+2a00:800:1100:1::10 r5---sn-uxaxufv-8pxl.googlevideo.com
+2a00:800:1100:1::11 r6---sn-uxaxufv-8pxl.googlevideo.com
 
 2a00:1e48:1:b::c r1---sn-ug5onuxaxjvh-v8ce.googlevideo.com
 2a00:1e48:1:b::d r2---sn-ug5onuxaxjvh-v8ce.googlevideo.com
@@ -4366,6 +4534,31 @@
 2401:3800:4001:7::1a r11---sn-2x37en7k.googlevideo.com
 2401:3800:4001:7::1b r12---sn-2x37en7k.googlevideo.com
 
+2401:3800:4002:1::10 r1---sn-ni57dn7e.googlevideo.com
+2401:3800:4002:1::11 r2---sn-ni57dn7e.googlevideo.com
+2401:3800:4002:1::12 r3---sn-ni57dn7e.googlevideo.com
+2401:3800:4002:1::13 r4---sn-ni57dn7e.googlevideo.com
+2401:3800:4002:1::14 r5---sn-ni57dn7e.googlevideo.com
+2401:3800:4002:1::15 r6---sn-ni57dn7e.googlevideo.com
+2401:3800:4002:1::16 r7---sn-ni57dn7e.googlevideo.com
+2401:3800:4002:1::17 r8---sn-ni57dn7e.googlevideo.com
+2401:3800:4002:1::18 r9---sn-ni57dn7e.googlevideo.com
+2401:3800:4002:1::19 r10---sn-ni57dn7e.googlevideo.com
+2401:3800:4002:1::1a r11---sn-ni57dn7e.googlevideo.com
+2401:3800:4002:1::1b r12---sn-ni57dn7e.googlevideo.com
+2401:3800:4002:2::10 r1---sn-ni57dn7l.googlevideo.com
+2401:3800:4002:2::11 r2---sn-ni57dn7l.googlevideo.com
+2401:3800:4002:2::12 r3---sn-ni57dn7l.googlevideo.com
+2401:3800:4002:2::13 r4---sn-ni57dn7l.googlevideo.com
+2401:3800:4002:2::14 r5---sn-ni57dn7l.googlevideo.com
+2401:3800:4002:2::15 r6---sn-ni57dn7l.googlevideo.com
+2401:3800:4002:2::16 r7---sn-ni57dn7l.googlevideo.com
+2401:3800:4002:2::17 r8---sn-ni57dn7l.googlevideo.com
+2401:3800:4002:2::18 r9---sn-ni57dn7l.googlevideo.com
+2401:3800:4002:2::19 r10---sn-ni57dn7l.googlevideo.com
+2401:3800:4002:2::1a r11---sn-ni57dn7l.googlevideo.com
+2401:3800:4002:2::1b r12---sn-ni57dn7l.googlevideo.com
+
 2404:6800:4001:4::6 r1---sn-30a7dn7e.googlevideo.com
 2404:6800:4001:4::7 r2---sn-30a7dn7e.googlevideo.com
 2404:6800:4001:4::8 r3---sn-30a7dn7e.googlevideo.com
@@ -4781,6 +4974,18 @@
 2404:6800:4003:9::b r5---sn-npo7zn7z.googlevideo.com
 2404:6800:4003:9::c r6---sn-npo7zn7z.googlevideo.com
 
+2404:6800:4004::7 r1---sn-oguesnsy.googlevideo.com
+2404:6800:4004::8 r2---sn-oguesnsy.googlevideo.com
+2404:6800:4004::9 r3---sn-oguesnsy.googlevideo.com
+2404:6800:4004::a r4---sn-oguesnsy.googlevideo.com
+2404:6800:4004::b r5---sn-oguesnsy.googlevideo.com
+2404:6800:4004::c r6---sn-oguesnsy.googlevideo.com
+2404:6800:4004:1::7 r1---sn-oguesnz7.googlevideo.com
+2404:6800:4004:1::8 r2---sn-oguesnz7.googlevideo.com
+2404:6800:4004:1::9 r3---sn-oguesnz7.googlevideo.com
+2404:6800:4004:1::a r4---sn-oguesnz7.googlevideo.com
+2404:6800:4004:1::b r5---sn-oguesnz7.googlevideo.com
+2404:6800:4004:1::c r6---sn-oguesnz7.googlevideo.com
 2404:6800:4004:20::6 r1---sn-oguesn7l.googlevideo.com
 2404:6800:4004:20::7 r2---sn-oguesn7l.googlevideo.com
 2404:6800:4004:20::8 r3---sn-oguesn7l.googlevideo.com
@@ -10252,6 +10457,536 @@
 2607:f8b0:4012:f::18 r19---sn-9gv7ln7r.googlevideo.com
 2607:f8b0:4012:f::19 r20---sn-9gv7ln7r.googlevideo.com
 
+2800:3f0:4001:2::7 r1---sn-bg07dnek.googlevideo.com
+2800:3f0:4001:2::8 r2---sn-bg07dnek.googlevideo.com
+2800:3f0:4001:2::9 r3---sn-bg07dnek.googlevideo.com
+2800:3f0:4001:2::a r4---sn-bg07dnek.googlevideo.com
+2800:3f0:4001:2::b r5---sn-bg07dnek.googlevideo.com
+2800:3f0:4001:2::c r6---sn-bg07dnek.googlevideo.com
+2800:3f0:4001:3::7 r1---sn-bg07dner.googlevideo.com
+2800:3f0:4001:3::8 r2---sn-bg07dner.googlevideo.com
+2800:3f0:4001:3::9 r3---sn-bg07dner.googlevideo.com
+2800:3f0:4001:3::a r4---sn-bg07dner.googlevideo.com
+2800:3f0:4001:3::b r5---sn-bg07dner.googlevideo.com
+2800:3f0:4001:3::c r6---sn-bg07dner.googlevideo.com
+2800:3f0:4001:4::7 r1---sn-bg07dney.googlevideo.com
+2800:3f0:4001:4::8 r2---sn-bg07dney.googlevideo.com
+2800:3f0:4001:4::9 r3---sn-bg07dney.googlevideo.com
+2800:3f0:4001:4::a r4---sn-bg07dney.googlevideo.com
+2800:3f0:4001:4::b r5---sn-bg07dney.googlevideo.com
+2800:3f0:4001:4::c r6---sn-bg07dney.googlevideo.com
+2800:3f0:4001:5::7 r1---sn-bg07dnl7.googlevideo.com
+2800:3f0:4001:5::8 r2---sn-bg07dnl7.googlevideo.com
+2800:3f0:4001:5::9 r3---sn-bg07dnl7.googlevideo.com
+2800:3f0:4001:5::a r4---sn-bg07dnl7.googlevideo.com
+2800:3f0:4001:5::b r5---sn-bg07dnl7.googlevideo.com
+2800:3f0:4001:5::c r6---sn-bg07dnl7.googlevideo.com
+2800:3f0:4001:7::7 r1---sn-bg07dnle.googlevideo.com
+2800:3f0:4001:7::8 r2---sn-bg07dnle.googlevideo.com
+2800:3f0:4001:7::9 r3---sn-bg07dnle.googlevideo.com
+2800:3f0:4001:7::a r4---sn-bg07dnle.googlevideo.com
+2800:3f0:4001:7::b r5---sn-bg07dnle.googlevideo.com
+2800:3f0:4001:7::c r6---sn-bg07dnle.googlevideo.com
+2800:3f0:4001:8::7 r1---sn-bg07dnll.googlevideo.com
+2800:3f0:4001:8::8 r2---sn-bg07dnll.googlevideo.com
+2800:3f0:4001:8::9 r3---sn-bg07dnll.googlevideo.com
+2800:3f0:4001:8::a r4---sn-bg07dnll.googlevideo.com
+2800:3f0:4001:8::b r5---sn-bg07dnll.googlevideo.com
+2800:3f0:4001:8::c r6---sn-bg07dnll.googlevideo.com
+2800:3f0:4001:9::7 r1---sn-bg07dnls.googlevideo.com
+2800:3f0:4001:9::8 r2---sn-bg07dnls.googlevideo.com
+2800:3f0:4001:9::9 r3---sn-bg07dnls.googlevideo.com
+2800:3f0:4001:9::a r4---sn-bg07dnls.googlevideo.com
+2800:3f0:4001:9::b r5---sn-bg07dnls.googlevideo.com
+2800:3f0:4001:9::c r6---sn-bg07dnls.googlevideo.com
+2800:3f0:4001:a::6 r1---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::7 r2---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::8 r3---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::9 r4---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::a r5---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::b r6---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::c r7---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::d r8---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::e r9---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::f r10---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::10 r11---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::11 r12---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::12 r13---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::13 r14---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::14 r15---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::15 r16---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::16 r17---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::17 r18---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::18 r19---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:a::19 r20---sn-bg07yn7e.googlevideo.com
+2800:3f0:4001:b::6 r1---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::7 r2---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::8 r3---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::9 r4---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::a r5---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::b r6---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::c r7---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::d r8---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::e r9---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::f r10---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::10 r11---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::11 r12---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::12 r13---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::13 r14---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::14 r15---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::15 r16---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::16 r17---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::17 r18---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::18 r19---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:b::19 r20---sn-bg07yn7l.googlevideo.com
+2800:3f0:4001:c::6 r1---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::7 r2---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::8 r3---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::9 r4---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::a r5---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::b r6---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::c r7---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::d r8---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::e r9---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::f r10---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::10 r11---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::11 r12---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::12 r13---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::13 r14---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::14 r15---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::15 r16---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::16 r17---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::17 r18---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::18 r19---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:c::19 r20---sn-bg07dn7e.googlevideo.com
+2800:3f0:4001:d::6 r1---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::7 r2---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::8 r3---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::9 r4---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::a r5---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::b r6---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::c r7---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::d r8---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::e r9---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::f r10---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::10 r11---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::11 r12---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::12 r13---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::13 r14---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::14 r15---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::15 r16---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::16 r17---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::17 r18---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::18 r19---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:d::19 r20---sn-bg07dn7l.googlevideo.com
+2800:3f0:4001:e::6 r1---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::7 r2---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::8 r3---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::9 r4---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::a r5---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::b r6---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::c r7---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::d r8---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::e r9---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::f r10---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::10 r11---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::11 r12---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::12 r13---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::13 r14---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::14 r15---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::15 r16---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::16 r17---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::17 r18---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::18 r19---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:e::19 r20---sn-bg07dn7s.googlevideo.com
+2800:3f0:4001:f::6 r1---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::7 r2---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::8 r3---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::9 r4---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::a r5---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::b r6---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::c r7---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::d r8---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::e r9---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::f r10---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::10 r11---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::11 r12---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::12 r13---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::13 r14---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::14 r15---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::15 r16---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::16 r17---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::17 r18---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::18 r19---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:f::19 r20---sn-bg07dn7z.googlevideo.com
+2800:3f0:4001:10::6 r1---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::7 r2---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::8 r3---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::9 r4---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::a r5---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::b r6---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::c r7---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::d r8---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::e r9---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::f r10---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::10 r11---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::11 r12---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::12 r13---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::13 r14---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::14 r15---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::15 r16---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::16 r17---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::17 r18---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::18 r19---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:10::19 r20---sn-bg07yn7s.googlevideo.com
+2800:3f0:4001:11::6 r1---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::7 r2---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::8 r3---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::9 r4---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::a r5---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::b r6---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::c r7---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::d r8---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::e r9---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::f r10---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::10 r11---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::11 r12---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::12 r13---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::13 r14---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::14 r15---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::15 r16---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::16 r17---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::17 r18---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::18 r19---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:11::19 r20---sn-bg07yn7z.googlevideo.com
+2800:3f0:4001:12::6 r1---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::7 r2---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::8 r3---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::9 r4---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::a r5---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::b r6---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::c r7---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::d r8---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::e r9---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::f r10---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::10 r11---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::11 r12---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::12 r13---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::13 r14---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::14 r15---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::15 r16---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::16 r17---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::17 r18---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::18 r19---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:12::19 r20---sn-bg07dne6.googlevideo.com
+2800:3f0:4001:13::6 r1---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::7 r2---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::8 r3---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::9 r4---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::a r5---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::b r6---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::c r7---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::d r8---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::e r9---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::f r10---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::10 r11---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::11 r12---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::12 r13---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::13 r14---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::14 r15---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::15 r16---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::16 r17---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::17 r18---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::18 r19---sn-bg07dned.googlevideo.com
+2800:3f0:4001:13::19 r20---sn-bg07dned.googlevideo.com
+2800:3f0:4001:14::6 r1---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::7 r2---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::8 r3---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::9 r4---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::a r5---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::b r6---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::c r7---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::d r8---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::e r9---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::f r10---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::10 r11---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::11 r12---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::12 r13---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::13 r14---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::14 r15---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::15 r16---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::16 r17---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::17 r18---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::18 r19---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:14::19 r20---sn-bg07dnes.googlevideo.com
+2800:3f0:4001:15::6 r1---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::7 r2---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::8 r3---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::9 r4---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::a r5---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::b r6---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::c r7---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::d r8---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::e r9---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::f r10---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::10 r11---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::11 r12---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::12 r13---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::13 r14---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::14 r15---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::15 r16---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::16 r17---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::17 r18---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::18 r19---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:15::19 r20---sn-bg07dnez.googlevideo.com
+2800:3f0:4001:16::6 r1---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::7 r2---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::8 r3---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::9 r4---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::a r5---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::b r6---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::c r7---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::d r8---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::e r9---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::f r10---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::10 r11---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::11 r12---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::12 r13---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::13 r14---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::14 r15---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::15 r16---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::16 r17---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::17 r18---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::18 r19---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:16::19 r20---sn-bg07ynee.googlevideo.com
+2800:3f0:4001:17::6 r1---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::7 r2---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::8 r3---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::9 r4---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::a r5---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::b r6---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::c r7---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::d r8---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::e r9---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::f r10---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::10 r11---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::11 r12---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::12 r13---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::13 r14---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::14 r15---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::15 r16---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::16 r17---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::17 r18---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::18 r19---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:17::19 r20---sn-bg07ynel.googlevideo.com
+2800:3f0:4001:18::6 r1---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::7 r2---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::8 r3---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::9 r4---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::a r5---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::b r6---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::c r7---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::d r8---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::e r9---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::f r10---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::10 r11---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::11 r12---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::12 r13---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::13 r14---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::14 r15---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::15 r16---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::16 r17---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::17 r18---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::18 r19---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:18::19 r20---sn-bg07ynes.googlevideo.com
+2800:3f0:4001:19::6 r1---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::7 r2---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::8 r3---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::9 r4---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::a r5---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::b r6---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::c r7---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::d r8---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::e r9---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::f r10---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::10 r11---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::11 r12---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::12 r13---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::13 r14---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::14 r15---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::15 r16---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::16 r17---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::17 r18---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::18 r19---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:19::19 r20---sn-bg07ynez.googlevideo.com
+2800:3f0:4001:1a::7 r1---sn-bg07dnlz.googlevideo.com
+2800:3f0:4001:1a::8 r2---sn-bg07dnlz.googlevideo.com
+2800:3f0:4001:1a::9 r3---sn-bg07dnlz.googlevideo.com
+2800:3f0:4001:1a::a r4---sn-bg07dnlz.googlevideo.com
+2800:3f0:4001:1a::b r5---sn-bg07dnlz.googlevideo.com
+2800:3f0:4001:1a::c r6---sn-bg07dnlz.googlevideo.com
+
+2800:3f0:4002::6 r1---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::7 r2---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::8 r3---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::9 r4---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::a r5---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::b r6---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::c r7---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::d r8---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::e r9---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::f r10---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::10 r11---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::11 r12---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::12 r13---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::13 r14---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::14 r15---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::15 r16---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::16 r17---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::17 r18---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::18 r19---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002::19 r20---sn-x1x7sn7k.googlevideo.com
+2800:3f0:4002:1::6 r1---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::7 r2---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::8 r3---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::9 r4---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::a r5---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::b r6---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::c r7---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::d r8---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::e r9---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::f r10---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::10 r11---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::11 r12---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::12 r13---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::13 r14---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::14 r15---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::15 r16---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::16 r17---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::17 r18---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::18 r19---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:1::19 r20---sn-x1x7sn7r.googlevideo.com
+2800:3f0:4002:2::6 r1---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::7 r2---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::8 r3---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::9 r4---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::a r5---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::b r6---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::c r7---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::d r8---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::e r9---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::f r10---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::10 r11---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::11 r12---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::12 r13---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::13 r14---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::14 r15---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::15 r16---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::16 r17---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::17 r18---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::18 r19---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:2::19 r20---sn-x1x7sn7y.googlevideo.com
+2800:3f0:4002:3::6 r1---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::7 r2---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::8 r3---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::9 r4---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::a r5---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::b r6---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::c r7---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::d r8---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::e r9---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::f r10---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::10 r11---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::11 r12---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::12 r13---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::13 r14---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::14 r15---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::15 r16---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::16 r17---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::17 r18---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::18 r19---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:3::19 r20---sn-x1x7sne7.googlevideo.com
+2800:3f0:4002:4::6 r1---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::7 r2---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::8 r3---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::9 r4---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::a r5---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::b r6---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::c r7---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::d r8---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::e r9---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::f r10---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::10 r11---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::11 r12---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::12 r13---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::13 r14---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::14 r15---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::15 r16---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::16 r17---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::17 r18---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::18 r19---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:4::19 r20---sn-x1x7snee.googlevideo.com
+2800:3f0:4002:5::6 r1---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::7 r2---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::8 r3---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::9 r4---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::a r5---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::b r6---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::c r7---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::d r8---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::e r9---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::f r10---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::10 r11---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::11 r12---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::12 r13---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::13 r14---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::14 r15---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::15 r16---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::16 r17---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::17 r18---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::18 r19---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:5::19 r20---sn-x1x7snel.googlevideo.com
+2800:3f0:4002:6::6 r1---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::7 r2---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::8 r3---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::9 r4---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::a r5---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::b r6---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::c r7---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::d r8---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::e r9---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::f r10---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::10 r11---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::11 r12---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::12 r13---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::13 r14---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::14 r15---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::15 r16---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::16 r17---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::17 r18---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::18 r19---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:6::19 r20---sn-x1x7snes.googlevideo.com
+2800:3f0:4002:7::6 r1---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::7 r2---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::8 r3---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::9 r4---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::a r5---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::b r6---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::c r7---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::d r8---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::e r9---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::f r10---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::10 r11---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::11 r12---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::12 r13---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::13 r14---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::14 r15---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::15 r16---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::16 r17---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::17 r18---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::18 r19---sn-x1x7snez.googlevideo.com
+2800:3f0:4002:7::19 r20---sn-x1x7snez.googlevideo.com
+
 2a00:1450:4001::6 r1---sn-4g57knls.googlevideo.com
 2a00:1450:4001::7 r2---sn-4g57knls.googlevideo.com
 2a00:1450:4001::8 r3---sn-4g57knls.googlevideo.com
@@ -13168,6 +13903,167 @@
 2a00:1450:4009:4b::b r5---sn-aiglln6l.googlevideo.com
 2a00:1450:4009:4b::c r6---sn-aiglln6l.googlevideo.com
 
+2a00:1450:400a::6 r1---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::7 r2---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::8 r3---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::9 r4---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::a r5---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::b r6---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::c r7---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::d r8---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::e r9---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::f r10---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::10 r11---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::11 r12---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::12 r13---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::13 r14---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::14 r15---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::15 r16---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::16 r17---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::17 r18---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::18 r19---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a::19 r20---sn-1gi7zn7e.googlevideo.com
+2a00:1450:400a:1::6 r1---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::7 r2---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::8 r3---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::9 r4---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::a r5---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::b r6---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::c r7---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::d r8---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::e r9---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::f r10---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::10 r11---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::11 r12---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::12 r13---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::13 r14---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::14 r15---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::15 r16---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::16 r17---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::17 r18---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::18 r19---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:1::19 r20---sn-1gi7zn7l.googlevideo.com
+2a00:1450:400a:2::6 r1---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::7 r2---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::8 r3---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::9 r4---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::a r5---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::b r6---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::c r7---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::d r8---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::e r9---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::f r10---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::10 r11---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::11 r12---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::12 r13---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::13 r14---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::14 r15---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::15 r16---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::16 r17---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::17 r18---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::18 r19---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:2::19 r20---sn-1gi7zn7s.googlevideo.com
+2a00:1450:400a:3::6 r1---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::7 r2---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::8 r3---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::9 r4---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::a r5---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::b r6---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::c r7---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::d r8---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::e r9---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::f r10---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::10 r11---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::11 r12---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::12 r13---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::13 r14---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::14 r15---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::15 r16---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::16 r17---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::17 r18---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::18 r19---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:3::19 r20---sn-1gi7zn7z.googlevideo.com
+2a00:1450:400a:4::6 r1---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::7 r2---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::8 r3---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::9 r4---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::a r5---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::b r6---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::c r7---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::d r8---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::e r9---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::f r10---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::10 r11---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::11 r12---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::12 r13---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::13 r14---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::14 r15---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::15 r16---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::16 r17---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::17 r18---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::18 r19---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:4::19 r20---sn-1gi7zn7y.googlevideo.com
+2a00:1450:400a:5::6 r1---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::7 r2---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::8 r3---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::9 r4---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::a r5---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::b r6---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::c r7---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::d r8---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::e r9---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::f r10---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::10 r11---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::11 r12---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::12 r13---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::13 r14---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::14 r15---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::15 r16---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::16 r17---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::17 r18---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::18 r19---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:5::19 r20---sn-1gi7zne7.googlevideo.com
+2a00:1450:400a:6::6 r1---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::7 r2---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::8 r3---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::9 r4---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::a r5---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::b r6---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::c r7---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::d r8---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::e r9---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::f r10---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::10 r11---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::11 r12---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::12 r13---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::13 r14---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::14 r15---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::15 r16---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::16 r17---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::17 r18---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::18 r19---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:6::19 r20---sn-1gi7znee.googlevideo.com
+2a00:1450:400a:7::6 r1---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::7 r2---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::8 r3---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::9 r4---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::a r5---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::b r6---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::c r7---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::d r8---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::e r9---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::f r10---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::10 r11---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::11 r12---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::12 r13---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::13 r14---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::14 r15---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::15 r16---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::16 r17---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::17 r18---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::18 r19---sn-1gi7znel.googlevideo.com
+2a00:1450:400a:7::19 r20---sn-1gi7znel.googlevideo.com
+
 2a00:1450:400b::6 r1---sn-q0c7dn7e.googlevideo.com
 2a00:1450:400b::7 r2---sn-q0c7dn7e.googlevideo.com
 2a00:1450:400b::8 r3---sn-q0c7dn7e.googlevideo.com
@@ -13328,6 +14224,71 @@
 2a00:1450:400b:7::17 r18---sn-q0c7dn7r.googlevideo.com
 2a00:1450:400b:7::18 r19---sn-q0c7dn7r.googlevideo.com
 2a00:1450:400b:7::19 r20---sn-q0c7dn7r.googlevideo.com
+
+2a00:1450:400c:400::10 r1---sn-cg07luee.googlevideo.com
+2a00:1450:400c:400::11 r2---sn-cg07luee.googlevideo.com
+2a00:1450:400c:400::12 r3---sn-cg07luee.googlevideo.com
+2a00:1450:400c:400::13 r4---sn-cg07luee.googlevideo.com
+2a00:1450:400c:400::14 r5---sn-cg07luee.googlevideo.com
+2a00:1450:400c:400::15 r6---sn-cg07luee.googlevideo.com
+2a00:1450:400c:400::16 r7---sn-cg07luee.googlevideo.com
+2a00:1450:400c:400::17 r8---sn-cg07luee.googlevideo.com
+2a00:1450:400c:401::10 r1---sn-cg07luel.googlevideo.com
+2a00:1450:400c:401::11 r2---sn-cg07luel.googlevideo.com
+2a00:1450:400c:401::12 r3---sn-cg07luel.googlevideo.com
+2a00:1450:400c:401::13 r4---sn-cg07luel.googlevideo.com
+2a00:1450:400c:401::14 r5---sn-cg07luel.googlevideo.com
+2a00:1450:400c:401::15 r6---sn-cg07luel.googlevideo.com
+2a00:1450:400c:401::16 r7---sn-cg07luel.googlevideo.com
+2a00:1450:400c:401::17 r8---sn-cg07luel.googlevideo.com
+2a00:1450:400c:402::10 r1---sn-cg07lues.googlevideo.com
+2a00:1450:400c:402::11 r2---sn-cg07lues.googlevideo.com
+2a00:1450:400c:402::12 r3---sn-cg07lues.googlevideo.com
+2a00:1450:400c:402::13 r4---sn-cg07lues.googlevideo.com
+2a00:1450:400c:402::14 r5---sn-cg07lues.googlevideo.com
+2a00:1450:400c:402::15 r6---sn-cg07lues.googlevideo.com
+2a00:1450:400c:402::16 r7---sn-cg07lues.googlevideo.com
+2a00:1450:400c:402::17 r8---sn-cg07lues.googlevideo.com
+2a00:1450:400c:403::10 r1---sn-cg07luez.googlevideo.com
+2a00:1450:400c:403::11 r2---sn-cg07luez.googlevideo.com
+2a00:1450:400c:403::12 r3---sn-cg07luez.googlevideo.com
+2a00:1450:400c:403::13 r4---sn-cg07luez.googlevideo.com
+2a00:1450:400c:403::14 r5---sn-cg07luez.googlevideo.com
+2a00:1450:400c:403::15 r6---sn-cg07luez.googlevideo.com
+2a00:1450:400c:403::16 r7---sn-cg07luez.googlevideo.com
+2a00:1450:400c:403::17 r8---sn-cg07luez.googlevideo.com
+2a00:1450:400c:404::10 r1---sn-cg07lue6.googlevideo.com
+2a00:1450:400c:404::11 r2---sn-cg07lue6.googlevideo.com
+2a00:1450:400c:404::12 r3---sn-cg07lue6.googlevideo.com
+2a00:1450:400c:404::13 r4---sn-cg07lue6.googlevideo.com
+2a00:1450:400c:404::14 r5---sn-cg07lue6.googlevideo.com
+2a00:1450:400c:404::15 r6---sn-cg07lue6.googlevideo.com
+2a00:1450:400c:404::16 r7---sn-cg07lue6.googlevideo.com
+2a00:1450:400c:404::17 r8---sn-cg07lue6.googlevideo.com
+2a00:1450:400c:405::10 r1---sn-cg07lued.googlevideo.com
+2a00:1450:400c:405::11 r2---sn-cg07lued.googlevideo.com
+2a00:1450:400c:405::12 r3---sn-cg07lued.googlevideo.com
+2a00:1450:400c:405::13 r4---sn-cg07lued.googlevideo.com
+2a00:1450:400c:405::14 r5---sn-cg07lued.googlevideo.com
+2a00:1450:400c:405::15 r6---sn-cg07lued.googlevideo.com
+2a00:1450:400c:405::16 r7---sn-cg07lued.googlevideo.com
+2a00:1450:400c:405::17 r8---sn-cg07lued.googlevideo.com
+2a00:1450:400c:406::10 r1---sn-cg07luek.googlevideo.com
+2a00:1450:400c:406::11 r2---sn-cg07luek.googlevideo.com
+2a00:1450:400c:406::12 r3---sn-cg07luek.googlevideo.com
+2a00:1450:400c:406::13 r4---sn-cg07luek.googlevideo.com
+2a00:1450:400c:406::14 r5---sn-cg07luek.googlevideo.com
+2a00:1450:400c:406::15 r6---sn-cg07luek.googlevideo.com
+2a00:1450:400c:406::16 r7---sn-cg07luek.googlevideo.com
+2a00:1450:400c:406::17 r8---sn-cg07luek.googlevideo.com
+2a00:1450:400c:407::10 r1---sn-cg07luer.googlevideo.com
+2a00:1450:400c:407::11 r2---sn-cg07luer.googlevideo.com
+2a00:1450:400c:407::12 r3---sn-cg07luer.googlevideo.com
+2a00:1450:400c:407::13 r4---sn-cg07luer.googlevideo.com
+2a00:1450:400c:407::14 r5---sn-cg07luer.googlevideo.com
+2a00:1450:400c:407::15 r6---sn-cg07luer.googlevideo.com
+2a00:1450:400c:407::16 r7---sn-cg07luer.googlevideo.com
+2a00:1450:400c:407::17 r8---sn-cg07luer.googlevideo.com
 
 2a00:1450:400e:4::6 r1---sn-5hn7snee.googlevideo.com
 2a00:1450:400e:4::7 r2---sn-5hn7snee.googlevideo.com
